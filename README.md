@@ -13,9 +13,9 @@ you may need manually download some packages based on your torch version.
 ## API Initialization
 
 ```sh
-export CUDA_VISIBLE_DEVICES=0
-export HF_HOME=<path to Huggingface home directory>
-export OPENAI_API_KEY=<your openai api key>   # if you want to use OpenAI model
+export CUDA_VISIBLE_DEVICES=0 # or your preferred device number
+export HF_HOME='~/.hf'  # or your preferred path
+export OPENAI_API_KEY=<your openai api key>  
 export GOOGLE_API_KEY=<your gemini api key>
 ```
 
