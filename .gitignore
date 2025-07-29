@@ -1,0 +1,29 @@
+hipporag2/*
+.idea/*
+
+# Ignore test files
+test_example.py
+test_example.ipynb
+# ignore log files
+*.log
+# Ignore python compiled caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Ignore nohup_out directory
+nohup_out/
+# Ignore outputs directory
+outputs/
+# Ignore data directory
+data/
+# Ignore the bash script to clear files under outputs and logs directories
+clear_outputs_and_logs.sh
+# Ignore the env file
+.env
+*.sqlite
+*.sqlite.lock
+analyse/
+images/
+outputs/
+logs/

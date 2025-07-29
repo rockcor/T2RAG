@@ -1,0 +1,5002 @@
+[
+  {
+    "_id": "popqa_0",
+    "answer": "August Derleth|August William Derleth|August W. Derleth",
+    "question": "Who is the author of Time to Come?"
+  },
+  {
+    "_id": "popqa_1",
+    "answer": "Hobart|Hobart Town|Hobarton|Hobart, Tasmania|Hobart, Tas.",
+    "question": "In what city was John Keating born?"
+  },
+  {
+    "_id": "popqa_2",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Raymond S. Burton's occupation?"
+  },
+  {
+    "_id": "popqa_3",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Gori Balmak?"
+  },
+  {
+    "_id": "popqa_4",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Oscar?"
+  },
+  {
+    "_id": "popqa_5",
+    "answer": "Canada|Dominion of Canada|British North America|CAN|CA|ca|can|Can.",
+    "question": "In what country is Edmundston?"
+  },
+  {
+    "_id": "popqa_6",
+    "answer": "Kimberley|Kimberley, Nottinghamshire",
+    "question": "In what city was George Chambers born?"
+  },
+  {
+    "_id": "popqa_7",
+    "answer": "Saitama Prefecture|Saitama-ken",
+    "question": "In what city was Tsugumi Higasayama born?"
+  },
+  {
+    "_id": "popqa_8",
+    "answer": "Bad Ems|Ems",
+    "question": "What is the capital of Verbandsgemeinde Bad Ems?"
+  },
+  {
+    "_id": "popqa_9",
+    "answer": "road bicycle racing|bicycle road cycling|bicycle road race|road bicycle race|road cycling race|road cycle racing|road bike racing|cycle race",
+    "question": "What sport does Francesco Reda play?"
+  },
+  {
+    "_id": "popqa_10",
+    "answer": "Baja California Sur|South Lower California|Free and Sovereign State of Baja California Sur|South Territory of Baja California|MX-BCS|BCS|MX03|Estado de Baja California Sur",
+    "question": "In what city was Gloria Porras Valles born?"
+  },
+  {
+    "_id": "popqa_11",
+    "answer": "Jean Van Hamme",
+    "question": "Who is the author of Western?"
+  },
+  {
+    "_id": "popqa_12",
+    "answer": "Binka Zhelyazkova",
+    "question": "Who was the screenwriter for The Last Word?"
+  },
+  {
+    "_id": "popqa_13",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Paul Caillaud's occupation?"
+  },
+  {
+    "_id": "popqa_14",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Levi P. Powers's occupation?"
+  },
+  {
+    "_id": "popqa_15",
+    "answer": "New York City|NYC|New York|the five boroughs|Big Apple|City of New York|NY City|New York, New York|New York City, New York|New York, NY|New York City (NYC)",
+    "question": "In what city was Robert Crannell Minor born?"
+  },
+  {
+    "_id": "popqa_16",
+    "answer": "Brazil|Federative Republic of Brazil|BR|BRA|br|\ud83c\udde7\ud83c\uddf7",
+    "question": "In what country is Mato Castelhano?"
+  },
+  {
+    "_id": "popqa_17",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is Punghina?"
+  },
+  {
+    "_id": "popqa_18",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Agust\u00edn Elduayen play?"
+  },
+  {
+    "_id": "popqa_19",
+    "answer": "Darrell Schweitzer|Darrell Charles Schweitzer",
+    "question": "Who is the author of The Great World and the Small: More Tales of the Ominous and Magical?"
+  },
+  {
+    "_id": "popqa_20",
+    "answer": "graphic designer",
+    "question": "What is Bed\u0159ich Feigl's occupation?"
+  },
+  {
+    "_id": "popqa_21",
+    "answer": "association football|football|soccer",
+    "question": "What sport does 2012 Uzbekistan First League play?"
+  },
+  {
+    "_id": "popqa_22",
+    "answer": "Enevold De Falsen",
+    "question": "Who is the father of Carl Valentin Falsen?"
+  },
+  {
+    "_id": "popqa_23",
+    "answer": "Karen Joy Fowler",
+    "question": "Who is the author of Always?"
+  },
+  {
+    "_id": "popqa_24",
+    "answer": "Nogent-le-Rotrou|Nogent-le-R\u00e9publicain",
+    "question": "What is the capital of arrondissement of Nogent-le-Rotrou?"
+  },
+  {
+    "_id": "popqa_25",
+    "answer": "Tony Gayton",
+    "question": "Who was the screenwriter for Revelations?"
+  },
+  {
+    "_id": "popqa_26",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Freedom?"
+  },
+  {
+    "_id": "popqa_27",
+    "answer": "Luigi Cherubini|Luigi Maria Cherubini|Louis-Charles-Zenobi-Salvador-Marie Cherubini|Marie Louis Charles Zanobi Salvador Cherubini",
+    "question": "Who was the composer of Overture in G major?"
+  },
+  {
+    "_id": "popqa_28",
+    "answer": "Karen Traviss",
+    "question": "Who is the author of The World Before?"
+  },
+  {
+    "_id": "popqa_29",
+    "answer": "Canada|Dominion of Canada|British North America|CAN|CA|ca|can|Can.",
+    "question": "In what country is Crow Harbour, New Brunswick?"
+  },
+  {
+    "_id": "popqa_30",
+    "answer": "diplomat|politician|political leader|political figure|polit.|pol",
+    "question": "What is Modou Dia's occupation?"
+  },
+  {
+    "_id": "popqa_31",
+    "answer": "J-pop|Japanese pop|jpop",
+    "question": "What genre is Stories?"
+  },
+  {
+    "_id": "popqa_32",
+    "answer": "Abbas Kiarostami",
+    "question": "Who was the screenwriter for Rang-ha?"
+  },
+  {
+    "_id": "popqa_33",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Le Moustoir?"
+  },
+  {
+    "_id": "popqa_34",
+    "answer": "Rotrude|Hruodrud",
+    "question": "Who is the mother of Louis?"
+  },
+  {
+    "_id": "popqa_35",
+    "answer": "J-pop|Japanese pop|jpop",
+    "question": "What genre is Yellow?"
+  },
+  {
+    "_id": "popqa_36",
+    "answer": "India|Bharat|Hindustan|Bharatvarsh|in|IN|Republic of India|\ud83c\uddee\ud83c\uddf3|IND|Aryavratt",
+    "question": "In what country is Bandrakottai?"
+  },
+  {
+    "_id": "popqa_37",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Willow River?"
+  },
+  {
+    "_id": "popqa_38",
+    "answer": "Mirambeau",
+    "question": "What is the capital of canton of Mirambeau?"
+  },
+  {
+    "_id": "popqa_39",
+    "answer": "Rio de Janeiro|Rio|Rio de Janeiro city|R\u00edo|R\u00edo de Janeiro",
+    "question": "In what city was Clemente Isnard born?"
+  },
+  {
+    "_id": "popqa_40",
+    "answer": "Lionel Rogosin",
+    "question": "Who was the director of Out?"
+  },
+  {
+    "_id": "popqa_41",
+    "answer": "Eureka|Eureka, Illinois",
+    "question": "In what city was William Perry Hay born?"
+  },
+  {
+    "_id": "popqa_42",
+    "answer": "Carrie Akre",
+    "question": "Who was the producer of Home?"
+  },
+  {
+    "_id": "popqa_43",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Gare de Rosporden?"
+  },
+  {
+    "_id": "popqa_44",
+    "answer": "Karin Alvtegen",
+    "question": "Who is the author of Shame?"
+  },
+  {
+    "_id": "popqa_45",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is United States Post Office and Courthouse\u2013Billings?"
+  },
+  {
+    "_id": "popqa_46",
+    "answer": "songwriter|song writer",
+    "question": "What is Richard Myers's occupation?"
+  },
+  {
+    "_id": "popqa_47",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Arturo Tabera Araoz?"
+  },
+  {
+    "_id": "popqa_48",
+    "answer": "association football|football|soccer",
+    "question": "What sport does 1995 Cook Islands Round Cup play?"
+  },
+  {
+    "_id": "popqa_49",
+    "answer": "Norwich|Norwich, England|Norwich, Norfolk",
+    "question": "In what city was Catherine Tishem born?"
+  },
+  {
+    "_id": "popqa_50",
+    "answer": "Alejandro Agresti",
+    "question": "Who was the director of La cruz?"
+  },
+  {
+    "_id": "popqa_51",
+    "answer": "Leith",
+    "question": "In what city was James Brown born?"
+  },
+  {
+    "_id": "popqa_52",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Lobos BUAP Premier play?"
+  },
+  {
+    "_id": "popqa_53",
+    "answer": "Germany|FRG|BRD|Bundesrepublik Deutschland|Federal Republic of Germany|de|Deutschland|GER|BR Deutschland|DE",
+    "question": "In what country is Riethnordhausen?"
+  },
+  {
+    "_id": "popqa_54",
+    "answer": "Wendy Wasserstein",
+    "question": "Who is the author of Old Money?"
+  },
+  {
+    "_id": "popqa_55",
+    "answer": "Jean Ure",
+    "question": "Who is the author of The Wizard in Wonderland?"
+  },
+  {
+    "_id": "popqa_56",
+    "answer": "Paulo Porto",
+    "question": "Who was the producer of In the Family?"
+  },
+  {
+    "_id": "popqa_57",
+    "answer": "Barbara Gowdy",
+    "question": "Who is the author of The Romantic?"
+  },
+  {
+    "_id": "popqa_58",
+    "answer": "synth-pop|synthesizer pop|techno-pop|synthpop",
+    "question": "What genre is If I Ever?"
+  },
+  {
+    "_id": "popqa_59",
+    "answer": "Uppsala|Upsala",
+    "question": "In what city was Annika Billstam born?"
+  },
+  {
+    "_id": "popqa_60",
+    "answer": "composer",
+    "question": "What is Jean Gabriel Marie's occupation?"
+  },
+  {
+    "_id": "popqa_61",
+    "answer": "Nepal|NPL|Federal Democratic Republic of Nepal|NEP|NP|\ud83c\uddf3\ud83c\uddf5",
+    "question": "In what country is Laxmipur, Mahakali?"
+  },
+  {
+    "_id": "popqa_62",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Tupper-Barnett House?"
+  },
+  {
+    "_id": "popqa_63",
+    "answer": "Buenos Aires|Buenos Ayres|Autonomous City of Buenos Aires|CABA|Ciudad Aut\u00f3noma de Buenos Aires",
+    "question": "In what city was Gregorio Selser born?"
+  },
+  {
+    "_id": "popqa_64",
+    "answer": "Kambarka",
+    "question": "What is the capital of Kambarsky District?"
+  },
+  {
+    "_id": "popqa_65",
+    "answer": "Gisborne|Gisborne, New Zealand",
+    "question": "In what city was Grant Bramwell born?"
+  },
+  {
+    "_id": "popqa_66",
+    "answer": "Ally Kennen",
+    "question": "Who is the author of Beast?"
+  },
+  {
+    "_id": "popqa_67",
+    "answer": "James Shirley",
+    "question": "Who is the author of The Ball?"
+  },
+  {
+    "_id": "popqa_68",
+    "answer": "James LaBrie|Kevin James LaBrie|00219295358 IPI",
+    "question": "Who was the composer of One More Time?"
+  },
+  {
+    "_id": "popqa_69",
+    "answer": "Joyce Carol Oates",
+    "question": "Who is the author of Black?"
+  },
+  {
+    "_id": "popqa_70",
+    "answer": "Manning Haynes|Horace Manning Haynes",
+    "question": "Who was the director of Those Who Love?"
+  },
+  {
+    "_id": "popqa_71",
+    "answer": "dansband|Svensktoppsband|Svensktoppen band",
+    "question": "What genre is Martinez?"
+  },
+  {
+    "_id": "popqa_72",
+    "answer": "Todd Holland",
+    "question": "Who was the director of Homecoming?"
+  },
+  {
+    "_id": "popqa_73",
+    "answer": "Independent Moving Pictures|Independent Moving Pictures Company",
+    "question": "Who was the producer of The Lie?"
+  },
+  {
+    "_id": "popqa_74",
+    "answer": "Stig Claesson|John Stig Claesson",
+    "question": "Who is the father of Leif Claesson?"
+  },
+  {
+    "_id": "popqa_75",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is La Roche-Clermault?"
+  },
+  {
+    "_id": "popqa_76",
+    "answer": "Minneapolis|Minneapolis, Minnesota|Minneapolis, MN|the 612",
+    "question": "In what city was Greg Windsperger born?"
+  },
+  {
+    "_id": "popqa_77",
+    "answer": "Pascal Quignard",
+    "question": "Who is the author of Villa Amalia?"
+  },
+  {
+    "_id": "popqa_78",
+    "answer": "George Friedman",
+    "question": "Who is the author of America's Secret War?"
+  },
+  {
+    "_id": "popqa_79",
+    "answer": "jazz|jazz music|jass|jas|jaz|Jazz",
+    "question": "What genre is Ruth Berman Harris?"
+  },
+  {
+    "_id": "popqa_80",
+    "answer": "canoeing and kayaking",
+    "question": "What sport does canoeing at the 2014 Asian Games \u2013 women's K-4 500 metres play?"
+  },
+  {
+    "_id": "popqa_81",
+    "answer": "Florac",
+    "question": "What is the capital of arrondissement of Florac?"
+  },
+  {
+    "_id": "popqa_82",
+    "answer": "racing video game|racing game|racing video games|racer",
+    "question": "What genre is Chariot Race?"
+  },
+  {
+    "_id": "popqa_83",
+    "answer": "Anglicanism|Anglicanism, Anglican Church",
+    "question": "What is the religion of Gabriel Sharma?"
+  },
+  {
+    "_id": "popqa_84",
+    "answer": "Henry Otto",
+    "question": "Who was the director of The Resolve?"
+  },
+  {
+    "_id": "popqa_85",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Alder?"
+  },
+  {
+    "_id": "popqa_86",
+    "answer": "Matt Hughes|Matthew Hughes",
+    "question": "Who is the author of Template?"
+  },
+  {
+    "_id": "popqa_87",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Marko Vidovi\u0107 play?"
+  },
+  {
+    "_id": "popqa_88",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Jelow Girangeh?"
+  },
+  {
+    "_id": "popqa_89",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Wilcza Jama, Sok\u00f3\u0142ka County?"
+  },
+  {
+    "_id": "popqa_90",
+    "answer": "journalist|journo|journalists",
+    "question": "What is Jorge Traverso's occupation?"
+  },
+  {
+    "_id": "popqa_91",
+    "answer": "Japan|State of Japan|Land of the Rising Sun|Nihon|Nippon|JP|Nippon-koku|Nihon-koku|JA|JPN|jp|JAP|Ja|Jap",
+    "question": "In what country is Kamioka Station?"
+  },
+  {
+    "_id": "popqa_92",
+    "answer": "Lannion|Lannuon",
+    "question": "What is the capital of arrondissement of Lannion?"
+  },
+  {
+    "_id": "popqa_93",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Monitor House?"
+  },
+  {
+    "_id": "popqa_94",
+    "answer": "Manuel Summers Rivero|Manuel Summers",
+    "question": "Who was the director of The Girl in Mourning?"
+  },
+  {
+    "_id": "popqa_95",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Content?"
+  },
+  {
+    "_id": "popqa_96",
+    "answer": "Paris|City of Light|Paris, France",
+    "question": "In what city was Fernand Cornez born?"
+  },
+  {
+    "_id": "popqa_97",
+    "answer": "Bryan Donkin",
+    "question": "Who is the father of John Donkin?"
+  },
+  {
+    "_id": "popqa_98",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Ernest Street play?"
+  },
+  {
+    "_id": "popqa_99",
+    "answer": "Czech Republic|CZR|cz|\u010cesko|\u010cesk\u00e1 republika|\u010cR|cze|CZE|Czechia",
+    "question": "In what country is Doma\u0161ov?"
+  },
+  {
+    "_id": "popqa_100",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Tina?"
+  },
+  {
+    "_id": "popqa_101",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Robert Braet play?"
+  },
+  {
+    "_id": "popqa_102",
+    "answer": "Alfred Rolfe",
+    "question": "Who was the director of The Day?"
+  },
+  {
+    "_id": "popqa_103",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Franciszek Rogaczewski?"
+  },
+  {
+    "_id": "popqa_104",
+    "answer": "Montauban|Rive-Civique",
+    "question": "In what city was Jean-Georges Lefranc de Pompignan born?"
+  },
+  {
+    "_id": "popqa_105",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Eshkevar-e Sofla Rural District?"
+  },
+  {
+    "_id": "popqa_106",
+    "answer": "Saanen",
+    "question": "What is the capital of Saanen District?"
+  },
+  {
+    "_id": "popqa_107",
+    "answer": "Czech Republic|CZR|cz|\u010cesko|\u010cesk\u00e1 republika|\u010cR|cze|CZE|Czechia",
+    "question": "In what country is Je\u017eov?"
+  },
+  {
+    "_id": "popqa_108",
+    "answer": "Antibes",
+    "question": "What is the capital of canton of Antibes-Biot?"
+  },
+  {
+    "_id": "popqa_109",
+    "answer": "basketball|hoops|b-ball|basket ball|BB|Basketball",
+    "question": "What sport does Kiribati men's national basketball team play?"
+  },
+  {
+    "_id": "popqa_110",
+    "answer": "Germany|FRG|BRD|Bundesrepublik Deutschland|Federal Republic of Germany|de|Deutschland|GER|BR Deutschland|DE",
+    "question": "In what country is Graitschen bei B\u00fcrgel?"
+  },
+  {
+    "_id": "popqa_111",
+    "answer": "Henry Christopher McCook|McCook",
+    "question": "Who is the author of The Latimers?"
+  },
+  {
+    "_id": "popqa_112",
+    "answer": "Carlos Hugo Christensen",
+    "question": "Who was the screenwriter for Three Loves in Rio?"
+  },
+  {
+    "_id": "popqa_113",
+    "answer": "Bruce Cordell|Bruce Robert Cordell|Bruce R. Cordell",
+    "question": "Who is the author of Darkvision?"
+  },
+  {
+    "_id": "popqa_114",
+    "answer": "Dell Henderson",
+    "question": "Who was the director of The Kiss?"
+  },
+  {
+    "_id": "popqa_115",
+    "answer": "Clara Kimball Young|Clara Kimball|Edith Matilda Clara Kimball",
+    "question": "Who was the producer of The Easiest Way?"
+  },
+  {
+    "_id": "popqa_116",
+    "answer": "Jason Sherman|Jason Sherman",
+    "question": "Who is the author of Patience?"
+  },
+  {
+    "_id": "popqa_117",
+    "answer": "Kinnitty",
+    "question": "In what city was Liam Carroll born?"
+  },
+  {
+    "_id": "popqa_118",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Gerg\u0151 Kov\u00e1cs play?"
+  },
+  {
+    "_id": "popqa_119",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Cho Keung-yeon play?"
+  },
+  {
+    "_id": "popqa_120",
+    "answer": "Rasskazovo",
+    "question": "In what city was Maksim Andreyevich Fyodorov born?"
+  },
+  {
+    "_id": "popqa_121",
+    "answer": "physicist",
+    "question": "What is Nandor Balazs's occupation?"
+  },
+  {
+    "_id": "popqa_122",
+    "answer": "Olkusz",
+    "question": "In what city was Pawe\u0142 Blehm born?"
+  },
+  {
+    "_id": "popqa_123",
+    "answer": "jazz|jazz music|jass|jas|jaz|Jazz",
+    "question": "What genre is Marty Marsala?"
+  },
+  {
+    "_id": "popqa_124",
+    "answer": "non-fiction|nonfiction|non fiction",
+    "question": "What genre is Most of Me?"
+  },
+  {
+    "_id": "popqa_125",
+    "answer": "Gordes",
+    "question": "What is the capital of canton of Gordes?"
+  },
+  {
+    "_id": "popqa_126",
+    "answer": "Paul Armont|Dimitri Petrococchino",
+    "question": "Who is the author of School for Coquettes?"
+  },
+  {
+    "_id": "popqa_127",
+    "answer": "Indonesia|Republic of Indonesia|id|ID|INA|IDN",
+    "question": "In what city was Andrian Mardiansyah born?"
+  },
+  {
+    "_id": "popqa_128",
+    "answer": "Poul Bang",
+    "question": "Who was the director of Det var paa Rundetaarn?"
+  },
+  {
+    "_id": "popqa_129",
+    "answer": "Georg Jacoby",
+    "question": "Who was the director of The Physician?"
+  },
+  {
+    "_id": "popqa_130",
+    "answer": "Seamus Heaney|Seamus Justin Heaney|Seamus Heaney",
+    "question": "Who is the author of Stations?"
+  },
+  {
+    "_id": "popqa_131",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Cosmo Francesco Ruppi?"
+  },
+  {
+    "_id": "popqa_132",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Sava Paunovi\u0107 play?"
+  },
+  {
+    "_id": "popqa_133",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Cham Karim?"
+  },
+  {
+    "_id": "popqa_134",
+    "answer": "volleyball",
+    "question": "What sport does Yuri Koroviansky play?"
+  },
+  {
+    "_id": "popqa_135",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Annie Beustes's occupation?"
+  },
+  {
+    "_id": "popqa_136",
+    "answer": "Vancouver|City of Vancouver|Vancouver, BC|Vancouver, British Columbia",
+    "question": "In what city was Scott Patterson born?"
+  },
+  {
+    "_id": "popqa_137",
+    "answer": "alpine skiing",
+    "question": "What sport does Hans Pieren play?"
+  },
+  {
+    "_id": "popqa_138",
+    "answer": "Rachel Crothers",
+    "question": "Who is the author of Nice People?"
+  },
+  {
+    "_id": "popqa_139",
+    "answer": "Viktor Suvorov",
+    "question": "Who is the author of Suicide?"
+  },
+  {
+    "_id": "popqa_140",
+    "answer": "Radomsko",
+    "question": "What is the capital of Gmina Radomsko?"
+  },
+  {
+    "_id": "popqa_141",
+    "answer": "Finland|Republic of Finland|Finnia|Land of Thousand Lakes|fi|Suomi|Suomen tasavalta|Republiken Finland|\ud83c\uddeb\ud83c\uddee|FIN",
+    "question": "In what country is Tervola Radio and TV-Mast?"
+  },
+  {
+    "_id": "popqa_142",
+    "answer": "Karlheinz Stockhausen|Karl-Heinz Stockhausen|Karlheinz Stockhausen",
+    "question": "Who was the composer of Solo?"
+  },
+  {
+    "_id": "popqa_143",
+    "answer": "young adult literature|juvenile fiction|YA|youth literature|juvenile literature|young adult fiction|YA literature|YA fiction",
+    "question": "What genre is Eddie & the Gang with No Name?"
+  },
+  {
+    "_id": "popqa_144",
+    "answer": "Charlie Parker|Yardbird|Bird|Charles Parker Jr.|Charlie Parker Jr.|Charles Christopher Parker, Jr.",
+    "question": "Who was the composer of Big Foot?"
+  },
+  {
+    "_id": "popqa_145",
+    "answer": "dentist|dentists|dental surgeon",
+    "question": "What is Matthew McKay's occupation?"
+  },
+  {
+    "_id": "popqa_146",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Durrenentzen?"
+  },
+  {
+    "_id": "popqa_147",
+    "answer": "basketball|hoops|b-ball|basket ball|BB|Basketball",
+    "question": "What sport does 1990\u201391 British Basketball League season play?"
+  },
+  {
+    "_id": "popqa_148",
+    "answer": "country music|country and western|country & western|country|Nashville sound",
+    "question": "What genre is The Gift?"
+  },
+  {
+    "_id": "popqa_149",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Ram\u00f3n Rodr\u00edguez play?"
+  },
+  {
+    "_id": "popqa_150",
+    "answer": "Sapporo",
+    "question": "In what city was Masaru Inada born?"
+  },
+  {
+    "_id": "popqa_151",
+    "answer": "Brazil|Federative Republic of Brazil|BR|BRA|br|\ud83c\udde7\ud83c\uddf7",
+    "question": "In what country is Rubim do Norte River?"
+  },
+  {
+    "_id": "popqa_152",
+    "answer": "Jennifer Fallon",
+    "question": "Who is the author of Warrior?"
+  },
+  {
+    "_id": "popqa_153",
+    "answer": "Chiprovtsi",
+    "question": "What is the capital of Chiprovtsi Municipality?"
+  },
+  {
+    "_id": "popqa_154",
+    "answer": "Stewart Conn",
+    "question": "Who is the author of The Burning?"
+  },
+  {
+    "_id": "popqa_155",
+    "answer": "Maurice Elvey",
+    "question": "Who was the director of Driven?"
+  },
+  {
+    "_id": "popqa_156",
+    "answer": "ambient music|ambient|Ambient",
+    "question": "What genre is Seven Veils?"
+  },
+  {
+    "_id": "popqa_157",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Samir Sarsare play?"
+  },
+  {
+    "_id": "popqa_158",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Juan L\u00f3pez Hita play?"
+  },
+  {
+    "_id": "popqa_159",
+    "answer": "journalist|journo|journalists",
+    "question": "What is Herlyn Espinal's occupation?"
+  },
+  {
+    "_id": "popqa_160",
+    "answer": "Joseph Connolly",
+    "question": "Who is the author of This Is It?"
+  },
+  {
+    "_id": "popqa_161",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Ackerman-Dewsnap House?"
+  },
+  {
+    "_id": "popqa_162",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Vasili Penyasov play?"
+  },
+  {
+    "_id": "popqa_163",
+    "answer": "farmer|agriculturist|grower|raiser|cultivator|agriculturer|farmer (occupation)|politician|political leader|political figure|polit.|pol",
+    "question": "What is Patrick Mulvany's occupation?"
+  },
+  {
+    "_id": "popqa_164",
+    "answer": "Vilnius|Vilna|Wilno|Vilne|Wilna|Vi\u013c\u0146a|Vilnia|Vilno|Vilnyus",
+    "question": "In what city was Jurgis Karnavi\u010dius born?"
+  },
+  {
+    "_id": "popqa_165",
+    "answer": "Luna Sea|Lunacy",
+    "question": "Who was the producer of Shine?"
+  },
+  {
+    "_id": "popqa_166",
+    "answer": "India|Bharat|Hindustan|Bharatvarsh|in|IN|Republic of India|\ud83c\uddee\ud83c\uddf3|IND|Aryavratt",
+    "question": "In what country is Kodki?"
+  },
+  {
+    "_id": "popqa_167",
+    "answer": "India|Bharat|Hindustan|Bharatvarsh|in|IN|Republic of India|\ud83c\uddee\ud83c\uddf3|IND|Aryavratt",
+    "question": "In what country is Mavjinjava?"
+  },
+  {
+    "_id": "popqa_168",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Sir Thomas Clarges, 3rd Baronet's occupation?"
+  },
+  {
+    "_id": "popqa_169",
+    "answer": "People's Republic of China|China|CN|PR China|PRC|cn|CHN|\ud83c\udde8\ud83c\uddf3|China PR|Mainland China",
+    "question": "In what country is T\u00eabo?"
+  },
+  {
+    "_id": "popqa_170",
+    "answer": "H. C. McNeile|Herman Cyril McNeile|Cyril McNeile|Sapper",
+    "question": "Who is the author of Challenge?"
+  },
+  {
+    "_id": "popqa_171",
+    "answer": "Mike Tucker",
+    "question": "Who is the author of Prime Time?"
+  },
+  {
+    "_id": "popqa_172",
+    "answer": "Antwerp|Antwerpen|City of Antwerp|Anvers",
+    "question": "In what city was Gerard Thomas born?"
+  },
+  {
+    "_id": "popqa_173",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Matteo Pivotto play?"
+  },
+  {
+    "_id": "popqa_174",
+    "answer": "La Plata",
+    "question": "In what city was Ricardo Maliandi born?"
+  },
+  {
+    "_id": "popqa_175",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Jos\u00e9 Luis Contaja play?"
+  },
+  {
+    "_id": "popqa_176",
+    "answer": "Los Mochis|Los Mochis",
+    "question": "In what city was Jes\u00fas Antonio Hern\u00e1ndez born?"
+  },
+  {
+    "_id": "popqa_177",
+    "answer": "Gothenburg|G\u00f6teborg",
+    "question": "In what city was Martin Simonson born?"
+  },
+  {
+    "_id": "popqa_178",
+    "answer": "Anglicanism|Anglicanism, Anglican Church",
+    "question": "What is the religion of John Orr?"
+  },
+  {
+    "_id": "popqa_179",
+    "answer": "volleyball",
+    "question": "What sport does VOKO-Irodion play?"
+  },
+  {
+    "_id": "popqa_180",
+    "answer": "science fiction film|sci-fi film|science fiction movie|sci-fi movie|scifi film|scifi movie|sci fi film|sci fi movie|scifi-film|scifi",
+    "question": "What genre is Mars?"
+  },
+  {
+    "_id": "popqa_181",
+    "answer": "Tim LaHaye|Timothy LaHaye|Timothy F. \"Tim\" LaHaye|Timothy Francis LaHaye|Tim Francis LaHaye",
+    "question": "Who is the author of Facing the Future?"
+  },
+  {
+    "_id": "popqa_182",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Guilherme Andrade play?"
+  },
+  {
+    "_id": "popqa_183",
+    "answer": "John Jopson|John Charles Jopson",
+    "question": "Who was the screenwriter for White Gold?"
+  },
+  {
+    "_id": "popqa_184",
+    "answer": "War Admiral",
+    "question": "Who is the father of Searching?"
+  },
+  {
+    "_id": "popqa_185",
+    "answer": "Jean-Michel Charlier",
+    "question": "Who is the author of Nuclear Alert?"
+  },
+  {
+    "_id": "popqa_186",
+    "answer": "Ma Teng",
+    "question": "Who is the father of Ma Xiu?"
+  },
+  {
+    "_id": "popqa_187",
+    "answer": "Canada|Dominion of Canada|British North America|CAN|CA|ca|can|Can.",
+    "question": "In what country is North Lake?"
+  },
+  {
+    "_id": "popqa_188",
+    "answer": "D. C. Moore",
+    "question": "Who is the author of The Empire?"
+  },
+  {
+    "_id": "popqa_189",
+    "answer": "Todd Field|William Todd Field",
+    "question": "Who was the director of The Tree?"
+  },
+  {
+    "_id": "popqa_190",
+    "answer": "Bobby Ljunggren|Robert Vasilis Ljunggren|Robert Vasilis Engdahl",
+    "question": "Who was the composer of I'm in Love?"
+  },
+  {
+    "_id": "popqa_191",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Michael Gibson play?"
+  },
+  {
+    "_id": "popqa_192",
+    "answer": "Michael Haydn|Johann Michael Haydn",
+    "question": "Who was the composer of Symphony No. 33?"
+  },
+  {
+    "_id": "popqa_193",
+    "answer": "Budapest|Buda Pest|Buda-Pest|Budape\u0161\u0165|Budapesta|Budapeszt|Buda|Ofen|Bud\u00edn|Budim|Budon|Pest|Pe\u0161\u0165|Pe\u0161ta|\u00d3buda|Alt-Ofen|K\u0151b\u00e1nya",
+    "question": "In what city was Gy\u00f6rgy K\u00e1rp\u00e1ti born?"
+  },
+  {
+    "_id": "popqa_194",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Bats\u00e8re?"
+  },
+  {
+    "_id": "popqa_195",
+    "answer": "Spain|Espa\u00f1a|Kingdom of Spain|ES|ESP",
+    "question": "In what country is Valdearcos de la Vega?"
+  },
+  {
+    "_id": "popqa_196",
+    "answer": "Frederick|Frederick, Maryland|Frederick, MD",
+    "question": "In what city was Bert Myers born?"
+  },
+  {
+    "_id": "popqa_197",
+    "answer": "Estonia|Republic of Estonia|Estland|Eesti|ee|EST|\ud83c\uddea\ud83c\uddea",
+    "question": "In what country is Kanak\u00fcla?"
+  },
+  {
+    "_id": "popqa_198",
+    "answer": "priest|reverend|priestess",
+    "question": "What is Christopher Butson's occupation?"
+  },
+  {
+    "_id": "popqa_199",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Albert Cox play?"
+  },
+  {
+    "_id": "popqa_200",
+    "answer": "Lebanon|\ud83c\uddf1\ud83c\udde7|LBN|Lebanese Republic|lb|Republic of Lebanon",
+    "question": "In what country is Al-Fajr Arabsalim?"
+  },
+  {
+    "_id": "popqa_201",
+    "answer": "Yunguyo",
+    "question": "What is the capital of Yunguyo Province?"
+  },
+  {
+    "_id": "popqa_202",
+    "answer": "actor|actress|actors|actresses",
+    "question": "What is Jon Eikemo's occupation?"
+  },
+  {
+    "_id": "popqa_203",
+    "answer": "Pelham Manor|Pelham Manor, New York",
+    "question": "In what city was Bob Cremins born?"
+  },
+  {
+    "_id": "popqa_204",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Clement Baker's occupation?"
+  },
+  {
+    "_id": "popqa_205",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Lewa\u0142d Wielki?"
+  },
+  {
+    "_id": "popqa_206",
+    "answer": "Birkenhead",
+    "question": "In what city was Phil Williams born?"
+  },
+  {
+    "_id": "popqa_207",
+    "answer": "film director|movie director|director|motion picture director|actor|actress|actors|actresses",
+    "question": "What is Kyaw Swe's occupation?"
+  },
+  {
+    "_id": "popqa_208",
+    "answer": "Finland|Republic of Finland|Finnia|Land of Thousand Lakes|fi|Suomi|Suomen tasavalta|Republiken Finland|\ud83c\uddeb\ud83c\uddee|FIN",
+    "question": "In what country is L\u00e4t\u00e4seno?"
+  },
+  {
+    "_id": "popqa_209",
+    "answer": "Monica Dickens|Monica Enid Dickens",
+    "question": "Who is the author of One of the Family?"
+  },
+  {
+    "_id": "popqa_210",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Dan Parkinson play?"
+  },
+  {
+    "_id": "popqa_211",
+    "answer": "India|Bharat|Hindustan|Bharatvarsh|in|IN|Republic of India|\ud83c\uddee\ud83c\uddf3|IND|Aryavratt",
+    "question": "In what country is Anaikudam?"
+  },
+  {
+    "_id": "popqa_212",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is \u0141odygowo, Pisz County?"
+  },
+  {
+    "_id": "popqa_213",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Ye Zhibin play?"
+  },
+  {
+    "_id": "popqa_214",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Pir Hayati?"
+  },
+  {
+    "_id": "popqa_215",
+    "answer": "Germano Almeida|Germano de Almeida",
+    "question": "Who is the author of O dia das cal\u00e7as roladas?"
+  },
+  {
+    "_id": "popqa_216",
+    "answer": "Turin|Torino|Turin, Italy",
+    "question": "In what city was Domenico Bologna born?"
+  },
+  {
+    "_id": "popqa_217",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Barrie Aitchison play?"
+  },
+  {
+    "_id": "popqa_218",
+    "answer": "Damon Knight|Damon Francis Knight|Stuart Fleming|Conanight",
+    "question": "Who is the author of Turning On?"
+  },
+  {
+    "_id": "popqa_219",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Benjamin Marc Ramaroson?"
+  },
+  {
+    "_id": "popqa_220",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Kalu?"
+  },
+  {
+    "_id": "popqa_221",
+    "answer": "Jon Cleary|Jon Stephen Cleary",
+    "question": "Who is the author of Endpeace?"
+  },
+  {
+    "_id": "popqa_222",
+    "answer": "Andy Ackerman|Robert Andrew Ackerman",
+    "question": "Who was the director of Pilot?"
+  },
+  {
+    "_id": "popqa_223",
+    "answer": "mathcore|math metal|noisecore",
+    "question": "What genre is Theatre?"
+  },
+  {
+    "_id": "popqa_224",
+    "answer": "Bar|Tivar|Tivari|Antivari|Antibari|Stari Bar",
+    "question": "In what city was Aleksandar Mad\u017ear born?"
+  },
+  {
+    "_id": "popqa_225",
+    "answer": "Leonard Carpenter|Leonard Paul Carpenter",
+    "question": "Who is the author of Conan, Lord of the Black River?"
+  },
+  {
+    "_id": "popqa_226",
+    "answer": "Tom Spezialy|Marc Cherry",
+    "question": "Who was the screenwriter for Impossible?"
+  },
+  {
+    "_id": "popqa_227",
+    "answer": "Jesse Louis Lasky|Jesse L. Lasky|Jesse Lasky|Jesse Louis Lasky Sr.",
+    "question": "Who was the producer of The Thing We Love?"
+  },
+  {
+    "_id": "popqa_228",
+    "answer": "Sergio Rubini",
+    "question": "Who was the screenwriter for The Bride\u2019s Journey?"
+  },
+  {
+    "_id": "popqa_229",
+    "answer": "Lauricocha Province",
+    "question": "What is Jes\u00fas the capital of?"
+  },
+  {
+    "_id": "popqa_230",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Ricardo Watty Urquidi?"
+  },
+  {
+    "_id": "popqa_231",
+    "answer": "architect",
+    "question": "What is Jean-Marie-Victor Viel's occupation?"
+  },
+  {
+    "_id": "popqa_232",
+    "answer": "New Plymouth",
+    "question": "In what city was Florence Marie Harsant born?"
+  },
+  {
+    "_id": "popqa_233",
+    "answer": "Baltimore County|County of Maryland|Baltimore County, Maryland",
+    "question": "In what city was Roger McCardell born?"
+  },
+  {
+    "_id": "popqa_234",
+    "answer": "Adrian Brunel|Adrian Hope Brunel",
+    "question": "Who was the director of Vanity?"
+  },
+  {
+    "_id": "popqa_235",
+    "answer": "Croatia|Republic of Croatia|HR|HRV|hr|\ud83c\udded\ud83c\uddf7|CRO",
+    "question": "In what country is Konjsko Brdo?"
+  },
+  {
+    "_id": "popqa_236",
+    "answer": "King's Lynn|Lynn|Bishop's Lynn",
+    "question": "In what city was Gary Freear born?"
+  },
+  {
+    "_id": "popqa_237",
+    "answer": "Greenland|gl|\ud83c\uddec\ud83c\uddf1",
+    "question": "In what country is Idlorpait?"
+  },
+  {
+    "_id": "popqa_238",
+    "answer": "science fiction|SF|scifi|sci Fi|sci-Fi|science-fiction|sci fi|sciencefiction|short story|tale|pripovijetka",
+    "question": "What genre is In Deep?"
+  },
+  {
+    "_id": "popqa_239",
+    "answer": "Eileen Wilks",
+    "question": "Who is the author of Only Human?"
+  },
+  {
+    "_id": "popqa_240",
+    "answer": "Archibald MacLeish",
+    "question": "Who is the author of Panic?"
+  },
+  {
+    "_id": "popqa_241",
+    "answer": "Antonio Smareglia",
+    "question": "Who was the composer of Nozze istriane?"
+  },
+  {
+    "_id": "popqa_242",
+    "answer": "Linz",
+    "question": "In what city was Johann Gregor Memhardt born?"
+  },
+  {
+    "_id": "popqa_243",
+    "answer": "Donald Harington|Donald Douglas Harington",
+    "question": "Who is the author of With?"
+  },
+  {
+    "_id": "popqa_244",
+    "answer": "rock music|rock and roll|rock|Rock",
+    "question": "What genre is All the Years?"
+  },
+  {
+    "_id": "popqa_245",
+    "answer": "James Patterson|James Brendan Patterson|James B. Patterson",
+    "question": "Who is the author of Sail?"
+  },
+  {
+    "_id": "popqa_246",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Carlo Curis?"
+  },
+  {
+    "_id": "popqa_247",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Habit?"
+  },
+  {
+    "_id": "popqa_248",
+    "answer": "Utrecht|Utreg|Utrecht (city)",
+    "question": "In what city was Amoene van Haersolte born?"
+  },
+  {
+    "_id": "popqa_249",
+    "answer": "Evan Brewer",
+    "question": "Who was the composer of Alone?"
+  },
+  {
+    "_id": "popqa_250",
+    "answer": "field hockey|hockey",
+    "question": "What sport does Guyana women's national field hockey team play?"
+  },
+  {
+    "_id": "popqa_251",
+    "answer": "Hattfjelldal",
+    "question": "In what city was Anders Orvin born?"
+  },
+  {
+    "_id": "popqa_252",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Louis O'Dea's occupation?"
+  },
+  {
+    "_id": "popqa_253",
+    "answer": "association football|football|soccer",
+    "question": "What sport does 2009 Ukrainian Cup Final play?"
+  },
+  {
+    "_id": "popqa_254",
+    "answer": "chef|chef de cuisine",
+    "question": "What is Michael Hutchings's occupation?"
+  },
+  {
+    "_id": "popqa_255",
+    "answer": "Tarusa",
+    "question": "What is the capital of Tarussky District?"
+  },
+  {
+    "_id": "popqa_256",
+    "answer": "Argentina|AR|ar|\ud83c\udde6\ud83c\uddf7|Argentine Republic|ARG|Republic of Argentina",
+    "question": "In what country is Colonia Nueva Coneta?"
+  },
+  {
+    "_id": "popqa_257",
+    "answer": "reggae|reggae music",
+    "question": "What genre is Astro?"
+  },
+  {
+    "_id": "popqa_258",
+    "answer": "Walter West|Walter Alabaster West",
+    "question": "Who was the director of The Loudwater Mystery?"
+  },
+  {
+    "_id": "popqa_259",
+    "answer": "David Williamson|David Keith Williamson",
+    "question": "Who is the author of Operator?"
+  },
+  {
+    "_id": "popqa_260",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Najeh Humoud play?"
+  },
+  {
+    "_id": "popqa_261",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Sar Giz?"
+  },
+  {
+    "_id": "popqa_262",
+    "answer": "Davi Napoleon",
+    "question": "Who is the author of Chelsea on the Edge?"
+  },
+  {
+    "_id": "popqa_263",
+    "answer": "Roland J. Green|Roland James Green",
+    "question": "Who is the author of Conan the Valiant?"
+  },
+  {
+    "_id": "popqa_264",
+    "answer": "contemporary Christian music|inspirational music|CCM|Contemporary Christian music",
+    "question": "What genre is Conversations?"
+  },
+  {
+    "_id": "popqa_265",
+    "answer": "Thomas Bentley",
+    "question": "Who was the director of The Love Nest?"
+  },
+  {
+    "_id": "popqa_266",
+    "answer": "composer",
+    "question": "What is Bruce McDaniel's occupation?"
+  },
+  {
+    "_id": "popqa_267",
+    "answer": "Arne Skouen",
+    "question": "Who was the director of Emergency Landing?"
+  },
+  {
+    "_id": "popqa_268",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Rizuiyeh?"
+  },
+  {
+    "_id": "popqa_269",
+    "answer": "Krzysztof Penderecki|Krzysztof Eugeniusz Penderecki",
+    "question": "Who was the composer of Prelude for Clarinet?"
+  },
+  {
+    "_id": "popqa_270",
+    "answer": "Canada|Dominion of Canada|British North America|CAN|CA|ca|can|Can.",
+    "question": "In what country is Perth?"
+  },
+  {
+    "_id": "popqa_271",
+    "answer": "Lawrence Watt-Evans",
+    "question": "Who is the author of Out of This World?"
+  },
+  {
+    "_id": "popqa_272",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Imbi Hoop play?"
+  },
+  {
+    "_id": "popqa_273",
+    "answer": "horror literature",
+    "question": "What genre is The Harrowing?"
+  },
+  {
+    "_id": "popqa_274",
+    "answer": "industrial rock",
+    "question": "What genre is Info?"
+  },
+  {
+    "_id": "popqa_275",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Jeqjeq-e Pain?"
+  },
+  {
+    "_id": "popqa_276",
+    "answer": "Japan|State of Japan|Land of the Rising Sun|Nihon|Nippon|JP|Nippon-koku|Nihon-koku|JA|JPN|jp|JAP|Ja|Jap",
+    "question": "In what country is Bitch\u016b-Kawamo Station?"
+  },
+  {
+    "_id": "popqa_277",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Donald Robert Macgregor's occupation?"
+  },
+  {
+    "_id": "popqa_278",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Ebrahim Asadi play?"
+  },
+  {
+    "_id": "popqa_279",
+    "answer": "baseball|America's pastime|\u26be",
+    "question": "What sport does 2009 Atlantic Coast Conference Baseball Tournament play?"
+  },
+  {
+    "_id": "popqa_280",
+    "answer": "Latvia|Republic of Latvia|Latvian Republic|lv|Latvija|\ud83c\uddf1\ud83c\uddfb|LAT|LVA",
+    "question": "In what country is B\u0101rta?"
+  },
+  {
+    "_id": "popqa_281",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Lorena Corona Vald\u00e9s's occupation?"
+  },
+  {
+    "_id": "popqa_282",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is George Lewis's occupation?"
+  },
+  {
+    "_id": "popqa_283",
+    "answer": "ice hockey",
+    "question": "What sport does Armand Raymond play?"
+  },
+  {
+    "_id": "popqa_284",
+    "answer": "ice hockey",
+    "question": "What sport does 2001\u201302 Division 1 season play?"
+  },
+  {
+    "_id": "popqa_285",
+    "answer": "ice hockey",
+    "question": "What sport does Livia Altmann play?"
+  },
+  {
+    "_id": "popqa_286",
+    "answer": "reality television|reality TV|reality television program|reality TV program|reality television show|television reality program|television reality show|TV reality program|TV reality show",
+    "question": "What genre is The Club?"
+  },
+  {
+    "_id": "popqa_287",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Petr Mlsna's occupation?"
+  },
+  {
+    "_id": "popqa_288",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Leonardo Torres play?"
+  },
+  {
+    "_id": "popqa_289",
+    "answer": "Geilo",
+    "question": "In what city was Anne Brusletto born?"
+  },
+  {
+    "_id": "popqa_290",
+    "answer": "fantasy|fantasy fiction|short story|tale|pripovijetka",
+    "question": "What genre is Tempting The Gods: The Selected Stories of Tanith Lee, Volume 1?"
+  },
+  {
+    "_id": "popqa_291",
+    "answer": "Buenos Aires|Buenos Ayres|Autonomous City of Buenos Aires|CABA|Ciudad Aut\u00f3noma de Buenos Aires",
+    "question": "In what city was Gustavo Grondona born?"
+  },
+  {
+    "_id": "popqa_292",
+    "answer": "Perry|Town of Perry",
+    "question": "In what city was James M. Bingham born?"
+  },
+  {
+    "_id": "popqa_293",
+    "answer": "India|Bharat|Hindustan|Bharatvarsh|in|IN|Republic of India|\ud83c\uddee\ud83c\uddf3|IND|Aryavratt",
+    "question": "In what country is Tigra?"
+  },
+  {
+    "_id": "popqa_294",
+    "answer": "Aldo Fabrizi|Aldo Fabbrizi",
+    "question": "Who was the director of One of Those?"
+  },
+  {
+    "_id": "popqa_295",
+    "answer": "Santiago|Santiago de Chile|Santiago, Chile",
+    "question": "In what city was Fernando Garc\u00eda born?"
+  },
+  {
+    "_id": "popqa_296",
+    "answer": "Slovakia|Slovak Republic|sk|\ud83c\uddf8\ud83c\uddf0|SVK",
+    "question": "In what country is Obor\u00edn?"
+  },
+  {
+    "_id": "popqa_297",
+    "answer": "journalist|journo|journalists",
+    "question": "What is Pierre Abraham's occupation?"
+  },
+  {
+    "_id": "popqa_298",
+    "answer": "Gie\u00dfen|Giessen",
+    "question": "In what city was Giovanni Speranza born?"
+  },
+  {
+    "_id": "popqa_299",
+    "answer": "Sidney Morgan",
+    "question": "Who was the screenwriter for Democracy?"
+  },
+  {
+    "_id": "popqa_300",
+    "answer": "tennis|lawn tennis|lawntennis",
+    "question": "What sport does 1973 Virginia Slims of Fort Lauderdale play?"
+  },
+  {
+    "_id": "popqa_301",
+    "answer": "India|Bharat|Hindustan|Bharatvarsh|in|IN|Republic of India|\ud83c\uddee\ud83c\uddf3|IND|Aryavratt",
+    "question": "In what country is Sagoni?"
+  },
+  {
+    "_id": "popqa_302",
+    "answer": "Czech Republic|CZR|cz|\u010cesko|\u010cesk\u00e1 republika|\u010cR|cze|CZE|Czechia",
+    "question": "In what country is pero?"
+  },
+  {
+    "_id": "popqa_303",
+    "answer": "Joseph Desha",
+    "question": "Who is the father of Isaac B. Desha?"
+  },
+  {
+    "_id": "popqa_304",
+    "answer": "Estonia|Republic of Estonia|Estland|Eesti|ee|EST|\ud83c\uddea\ud83c\uddea",
+    "question": "In what country is Urge?"
+  },
+  {
+    "_id": "popqa_305",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Society of Early Americanists?"
+  },
+  {
+    "_id": "popqa_306",
+    "answer": "Aaro Hellaakoski|Aaro Antti Hellaakoski",
+    "question": "Who is the author of J\u00e4\u00e4peili?"
+  },
+  {
+    "_id": "popqa_307",
+    "answer": "Deborah Moggach|Deborah Hough",
+    "question": "Who is the author of Close to Home?"
+  },
+  {
+    "_id": "popqa_308",
+    "answer": "Madrid|City of Madrid|Madrid, Spain",
+    "question": "In what city was Javier Su\u00e1rez born?"
+  },
+  {
+    "_id": "popqa_309",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is KMEI-LP?"
+  },
+  {
+    "_id": "popqa_310",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Pierre-Antoine Paulo?"
+  },
+  {
+    "_id": "popqa_311",
+    "answer": "association football|football|soccer",
+    "question": "What sport does G\u00e1bor J\u00e1nv\u00e1ri play?"
+  },
+  {
+    "_id": "popqa_312",
+    "answer": "New York City|NYC|New York|the five boroughs|Big Apple|City of New York|NY City|New York, New York|New York City, New York|New York, NY|New York City (NYC)",
+    "question": "In what city was Lloyd Ultan born?"
+  },
+  {
+    "_id": "popqa_313",
+    "answer": "photographer|photog|photographers",
+    "question": "What is Edwin E. Ellis's occupation?"
+  },
+  {
+    "_id": "popqa_314",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Clemente Isnard?"
+  },
+  {
+    "_id": "popqa_315",
+    "answer": "Birmingham|Birmingham, England|Birmingham, West Midlands",
+    "question": "In what city was Steve McDonald born?"
+  },
+  {
+    "_id": "popqa_316",
+    "answer": "Hickory|Hickory, North Carolina",
+    "question": "In what city was Bob Warlick born?"
+  },
+  {
+    "_id": "popqa_317",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Dasht Jeyhun?"
+  },
+  {
+    "_id": "popqa_318",
+    "answer": "judo",
+    "question": "What sport does Jo\u00e3o Schlittler play?"
+  },
+  {
+    "_id": "popqa_319",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Afyonkarahisarspor play?"
+  },
+  {
+    "_id": "popqa_320",
+    "answer": "Athens",
+    "question": "In what city was Alexandros Matsas born?"
+  },
+  {
+    "_id": "popqa_321",
+    "answer": "Franklyn Barrett|Walter Franklyn Barrett",
+    "question": "Who was the producer of The Pioneers?"
+  },
+  {
+    "_id": "popqa_322",
+    "answer": "association football|football|soccer",
+    "question": "What sport does 1920\u201321 Northern Football League play?"
+  },
+  {
+    "_id": "popqa_323",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Footes?"
+  },
+  {
+    "_id": "popqa_324",
+    "answer": "Maurits Binger|Maurits H. Binger",
+    "question": "Who was the director of La renzoni?"
+  },
+  {
+    "_id": "popqa_325",
+    "answer": "Thailand|Kingdom of Thailand|th|Siam|\ud83c\uddf9\ud83c\udded|Land of Smiles|THA",
+    "question": "In what country is Seed 97.5 FM?"
+  },
+  {
+    "_id": "popqa_326",
+    "answer": "Michael Marshall Smith|Michael Marshall|Michael Paul Marshall Smith",
+    "question": "Who is the author of What You Make It?"
+  },
+  {
+    "_id": "popqa_327",
+    "answer": "Jennifer Michael Hecht",
+    "question": "Who is the author of The End of the Soul?"
+  },
+  {
+    "_id": "popqa_328",
+    "answer": "Spain|Espa\u00f1a|Kingdom of Spain|ES|ESP",
+    "question": "In what country is Los Santos mine?"
+  },
+  {
+    "_id": "popqa_329",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Valger\u00f0ur Bjarnad\u00f3ttir's occupation?"
+  },
+  {
+    "_id": "popqa_330",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Lima?"
+  },
+  {
+    "_id": "popqa_331",
+    "answer": "Pakokku",
+    "question": "In what city was Nay Myo Thant born?"
+  },
+  {
+    "_id": "popqa_332",
+    "answer": "Paris|City of Light|Paris, France",
+    "question": "In what city was Pierre-Yves Barr\u00e9 born?"
+  },
+  {
+    "_id": "popqa_333",
+    "answer": "Margit Sandemo",
+    "question": "Who is the author of Visst katten har djuren sj\u00e4l!?"
+  },
+  {
+    "_id": "popqa_334",
+    "answer": "Karatsu|Katatu",
+    "question": "In what city was Yugo Yoshida born?"
+  },
+  {
+    "_id": "popqa_335",
+    "answer": "San Diego|San Diego, California|SD|America's Finest City|Sandi|the birthplace of California",
+    "question": "In what city was Billy Carlson born?"
+  },
+  {
+    "_id": "popqa_336",
+    "answer": "Miho Obana",
+    "question": "Who is the author of Partner?"
+  },
+  {
+    "_id": "popqa_337",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Rogers?"
+  },
+  {
+    "_id": "popqa_338",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is DeWitt Township?"
+  },
+  {
+    "_id": "popqa_339",
+    "answer": "Rorgon I, Count of Maine",
+    "question": "Who is the father of Louis?"
+  },
+  {
+    "_id": "popqa_340",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Gawarzec Dolny?"
+  },
+  {
+    "_id": "popqa_341",
+    "answer": "Yvan Delporte",
+    "question": "Who is the father of Bert Bertrand?"
+  },
+  {
+    "_id": "popqa_342",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Chal Siah Manchatun Jowkar?"
+  },
+  {
+    "_id": "popqa_343",
+    "answer": "beach volleyball",
+    "question": "What sport does S\u00e9bastien Chevallier play?"
+  },
+  {
+    "_id": "popqa_344",
+    "answer": "Isaac Asimov|Isaak Osimov|Paul French|Asimov|Isaak Ozimov",
+    "question": "Who is the author of Let's Not?"
+  },
+  {
+    "_id": "popqa_345",
+    "answer": "John Dickson Carr|John Carr",
+    "question": "Who is the author of Death in Five Boxes?"
+  },
+  {
+    "_id": "popqa_346",
+    "answer": "priest|reverend|priestess",
+    "question": "What is Derek Ingram Hill's occupation?"
+  },
+  {
+    "_id": "popqa_347",
+    "answer": "Alfian Sa'at|Alfian bin Sa'at",
+    "question": "Who is the author of Corridor?"
+  },
+  {
+    "_id": "popqa_348",
+    "answer": "basketball|hoops|b-ball|basket ball|BB|Basketball",
+    "question": "What sport does Oyanaisis Gelis play?"
+  },
+  {
+    "_id": "popqa_349",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is \u0141azy, Sierpc County?"
+  },
+  {
+    "_id": "popqa_350",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Per Risvik's occupation?"
+  },
+  {
+    "_id": "popqa_351",
+    "answer": "jockey",
+    "question": "What is Dominick Bellizzi's occupation?"
+  },
+  {
+    "_id": "popqa_352",
+    "answer": "Estonia|Republic of Estonia|Estland|Eesti|ee|EST|\ud83c\uddea\ud83c\uddea",
+    "question": "In what country is Sutlepa?"
+  },
+  {
+    "_id": "popqa_353",
+    "answer": "Moravia",
+    "question": "In what city was Karl Bartholomaeus Heller born?"
+  },
+  {
+    "_id": "popqa_354",
+    "answer": "Azerbaijan|Republic of Azerbaijan|az|\ud83c\udde6\ud83c\uddff|AZE",
+    "question": "In what country is \u0130nstitut?"
+  },
+  {
+    "_id": "popqa_355",
+    "answer": "Quintero brothers|Hermanos \u00c1lvarez Quintero|Hermanos Alvarez Quintero",
+    "question": "Who is the author of Malvaloca?"
+  },
+  {
+    "_id": "popqa_356",
+    "answer": "Joseph Koo|Koo Ka Fai|Joseph Koo Kar-Fai",
+    "question": "Who was the composer of The Giants?"
+  },
+  {
+    "_id": "popqa_357",
+    "answer": "Clyde Fitch|William Clyde Fitch",
+    "question": "Who was the screenwriter for The City?"
+  },
+  {
+    "_id": "popqa_358",
+    "answer": "association football|football|soccer",
+    "question": "What sport does 1994\u201395 Fu\u00dfball-Bundesliga play?"
+  },
+  {
+    "_id": "popqa_359",
+    "answer": "Ray Mears|Raymond Paul Mears",
+    "question": "Who is the author of The Outdoor Survival Handbook?"
+  },
+  {
+    "_id": "popqa_360",
+    "answer": "bobsleigh|bobsledding|bobsled|bobsleighing|Bobsled",
+    "question": "What sport does Nevio de Zordo play?"
+  },
+  {
+    "_id": "popqa_361",
+    "answer": "J-pop|Japanese pop|jpop",
+    "question": "What genre is Flare?"
+  },
+  {
+    "_id": "popqa_362",
+    "answer": "actor|actress|actors|actresses",
+    "question": "What is Marie-France Mignal's occupation?"
+  },
+  {
+    "_id": "popqa_363",
+    "answer": "camogie",
+    "question": "What sport does All-Ireland Senior Club Camogie Championship 1970 play?"
+  },
+  {
+    "_id": "popqa_364",
+    "answer": "science fiction|SF|scifi|sci Fi|sci-Fi|science-fiction|sci fi|sciencefiction",
+    "question": "What genre is Dark Matter?"
+  },
+  {
+    "_id": "popqa_365",
+    "answer": "Lisa Zwerling",
+    "question": "Who was the screenwriter for Oregon?"
+  },
+  {
+    "_id": "popqa_366",
+    "answer": "Cartago|Cartago, Costa Rica",
+    "question": "In what city was Francisco Mar\u00eda Oreamuno Bonilla born?"
+  },
+  {
+    "_id": "popqa_367",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Thomas Gifford's occupation?"
+  },
+  {
+    "_id": "popqa_368",
+    "answer": "Australia|Commonwealth of Australia|AU|AUS|au|British Colony of Australia|\ud83c\udde6\ud83c\uddfa|Straya|Aussieland",
+    "question": "In what country is New England?"
+  },
+  {
+    "_id": "popqa_369",
+    "answer": "Christy Cabanne|William Christy Cabanne",
+    "question": "Who was the director of The Sisters?"
+  },
+  {
+    "_id": "popqa_370",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Scott Muirhead play?"
+  },
+  {
+    "_id": "popqa_371",
+    "answer": "Hal Roach",
+    "question": "Who was the producer of Saturday Morning?"
+  },
+  {
+    "_id": "popqa_372",
+    "answer": "Paul Erman",
+    "question": "Who is the father of Georg Adolf Erman?"
+  },
+  {
+    "_id": "popqa_373",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Wojciech Jarmu\u017c play?"
+  },
+  {
+    "_id": "popqa_374",
+    "answer": "Vienna|Wien|Vienna, Austria|W",
+    "question": "In what city was Hansi Niese born?"
+  },
+  {
+    "_id": "popqa_375",
+    "answer": "Rouzbeh Rashidi",
+    "question": "Who was the producer of Strand?"
+  },
+  {
+    "_id": "popqa_376",
+    "answer": "Mario Mattoli",
+    "question": "Who was the director of These Children?"
+  },
+  {
+    "_id": "popqa_377",
+    "answer": "Madagascar|mg|\ud83c\uddf2\ud83c\uddec|Republic of Madagascar|MAD",
+    "question": "In what country is Anjoma?"
+  },
+  {
+    "_id": "popqa_378",
+    "answer": "Darko Dimitrov",
+    "question": "Who was the composer of To the Sky?"
+  },
+  {
+    "_id": "popqa_379",
+    "answer": "Claude Debussy|Claud Debussy|Debussy|Claude Achille Debussy|Achille Claude Debussy|C. Debussy|Claude-Achille Debussy|Achille-Claude|Achille-Claude Debussy",
+    "question": "Who was the composer of Images?"
+  },
+  {
+    "_id": "popqa_380",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Willi Kirsei play?"
+  },
+  {
+    "_id": "popqa_381",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Gerd Schwidrowski play?"
+  },
+  {
+    "_id": "popqa_382",
+    "answer": "Germany|FRG|BRD|Bundesrepublik Deutschland|Federal Republic of Germany|de|Deutschland|GER|BR Deutschland|DE",
+    "question": "In what country is Riechheimer Berg?"
+  },
+  {
+    "_id": "popqa_383",
+    "answer": "Harry Piel|Heinrich Piel",
+    "question": "Who was the director of Taxi at Midnight?"
+  },
+  {
+    "_id": "popqa_384",
+    "answer": "San Fernando|San Fernando, Buenos Aires",
+    "question": "In what city was Mariano Chao born?"
+  },
+  {
+    "_id": "popqa_385",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Ricardo G\u00f3nzalez Reinoso play?"
+  },
+  {
+    "_id": "popqa_386",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Angelo Maria Rivato?"
+  },
+  {
+    "_id": "popqa_387",
+    "answer": "Swansea|Abertawe",
+    "question": "In what city was Evan Abraham born?"
+  },
+  {
+    "_id": "popqa_388",
+    "answer": "Kiarash Anvari",
+    "question": "Who was the screenwriter for F\u00e9minin, masculin?"
+  },
+  {
+    "_id": "popqa_389",
+    "answer": "Zrenjanin|Be\u010dkerek",
+    "question": "In what city was Milo\u0161 \u017deravica born?"
+  },
+  {
+    "_id": "popqa_390",
+    "answer": "baseball|America's pastime|\u26be",
+    "question": "What sport does 1997 Conference USA Baseball Tournament play?"
+  },
+  {
+    "_id": "popqa_391",
+    "answer": "Sergiu Nicolaescu|Sergiu Nicolaiescu|Sergiu Florin Nicolaescu",
+    "question": "Who was the director of Accident?"
+  },
+  {
+    "_id": "popqa_392",
+    "answer": "Ghassan Salhab",
+    "question": "Who was the director of The Valley?"
+  },
+  {
+    "_id": "popqa_393",
+    "answer": "Maracay",
+    "question": "In what city was Dilson Torres born?"
+  },
+  {
+    "_id": "popqa_394",
+    "answer": "Stephen Hartke|Stephen Paul Hartke",
+    "question": "Who was the composer of The Greater Good, or the Passion of Boule de Suif?"
+  },
+  {
+    "_id": "popqa_395",
+    "answer": "Tantieme",
+    "question": "Who is the father of Match II?"
+  },
+  {
+    "_id": "popqa_396",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Domingo Eyzaguirre's occupation?"
+  },
+  {
+    "_id": "popqa_397",
+    "answer": "Jedlnia-Letnisko",
+    "question": "In what city was Robert Zawada born?"
+  },
+  {
+    "_id": "popqa_398",
+    "answer": "Fernando Ayala",
+    "question": "Who was the director of Me First?"
+  },
+  {
+    "_id": "popqa_399",
+    "answer": "Joe Meno",
+    "question": "Who is the author of The Great Perhaps?"
+  },
+  {
+    "_id": "popqa_400",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Hwang Byung-ju play?"
+  },
+  {
+    "_id": "popqa_401",
+    "answer": "Chano Urueta|Santiago Eduardo Urueta Sierra",
+    "question": "Who was the director of La Rival?"
+  },
+  {
+    "_id": "popqa_402",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Walter James Fitzgerald?"
+  },
+  {
+    "_id": "popqa_403",
+    "answer": "Blue Larkspur",
+    "question": "Who is the father of But Why Not?"
+  },
+  {
+    "_id": "popqa_404",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Guo Ruilong play?"
+  },
+  {
+    "_id": "popqa_405",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Sarnowo, Che\u0142mno County?"
+  },
+  {
+    "_id": "popqa_406",
+    "answer": "Albert Capellani",
+    "question": "Who was the screenwriter for Daybreak?"
+  },
+  {
+    "_id": "popqa_407",
+    "answer": "Jerrold Tarog|Jerrold Viacrucis Tarog",
+    "question": "Who was the director of Senior Year?"
+  },
+  {
+    "_id": "popqa_408",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Stephen Connor play?"
+  },
+  {
+    "_id": "popqa_409",
+    "answer": "Budapest|Buda Pest|Buda-Pest|Budape\u0161\u0165|Budapesta|Budapeszt|Buda|Ofen|Bud\u00edn|Budim|Budon|Pest|Pe\u0161\u0165|Pe\u0161ta|\u00d3buda|Alt-Ofen|K\u0151b\u00e1nya",
+    "question": "In what city was Gyula Czimra born?"
+  },
+  {
+    "_id": "popqa_410",
+    "answer": "Vaxholm",
+    "question": "In what city was G\u00f6sta Eriksson born?"
+  },
+  {
+    "_id": "popqa_411",
+    "answer": "Mark Behr",
+    "question": "Who is the author of Embrace?"
+  },
+  {
+    "_id": "popqa_412",
+    "answer": "Gordon Douglas|Gordon Douglas Brickner",
+    "question": "Who was the director of The Pigskin Palooka?"
+  },
+  {
+    "_id": "popqa_413",
+    "answer": "Pat Powers",
+    "question": "Who was the producer of The Trap?"
+  },
+  {
+    "_id": "popqa_414",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Mutanda Kwesele play?"
+  },
+  {
+    "_id": "popqa_415",
+    "answer": "death metal|Death Metal",
+    "question": "What genre is Node?"
+  },
+  {
+    "_id": "popqa_416",
+    "answer": "Henry Russell",
+    "question": "Who was the composer of To The West?"
+  },
+  {
+    "_id": "popqa_417",
+    "answer": "Craig Hinton|Craig Paul Alexander Hinton",
+    "question": "Who is the author of Millennial Rites?"
+  },
+  {
+    "_id": "popqa_418",
+    "answer": "Antun Vrdoljak",
+    "question": "Who was the screenwriter for The Return?"
+  },
+  {
+    "_id": "popqa_419",
+    "answer": "golf|Golf",
+    "question": "What sport does Turkish Seniors Open play?"
+  },
+  {
+    "_id": "popqa_420",
+    "answer": "Christchurch|Christchurch, New Zealand",
+    "question": "In what city was Robin Williams born?"
+  },
+  {
+    "_id": "popqa_421",
+    "answer": "Jonathan Kellerman|Jonathan Seth Kellerman",
+    "question": "Who is the author of Therapy?"
+  },
+  {
+    "_id": "popqa_422",
+    "answer": "Van Dyke Brooke|Stewart McKerrow",
+    "question": "Who was the director of A Helpful Sisterhood?"
+  },
+  {
+    "_id": "popqa_423",
+    "answer": "Georges Sari",
+    "question": "Who is the author of The Lie?"
+  },
+  {
+    "_id": "popqa_424",
+    "answer": "Lino Rulli",
+    "question": "Who is the author of Saint?"
+  },
+  {
+    "_id": "popqa_425",
+    "answer": "telenovela|Spanish soap opera",
+    "question": "What genre is El honorable Se\u00f1or Valdez?"
+  },
+  {
+    "_id": "popqa_426",
+    "answer": "synth-pop|synthesizer pop|techno-pop|synthpop",
+    "question": "What genre is Voyage?"
+  },
+  {
+    "_id": "popqa_427",
+    "answer": "Gmina Kluczewsko",
+    "question": "What is Kluczewsko the capital of?"
+  },
+  {
+    "_id": "popqa_428",
+    "answer": "Dave Boyle",
+    "question": "Who was the director of Big Dreams Little Tokyo?"
+  },
+  {
+    "_id": "popqa_429",
+    "answer": "Mark Lothar",
+    "question": "Who was the composer of Tailor Wibbel?"
+  },
+  {
+    "_id": "popqa_430",
+    "answer": "Portaferry|Portaferry, County Down",
+    "question": "In what city was Paul Braniff born?"
+  },
+  {
+    "_id": "popqa_431",
+    "answer": "Jac Holzman|Jacob Holzman",
+    "question": "Who is the author of Follow The Music?"
+  },
+  {
+    "_id": "popqa_432",
+    "answer": "playwright|dramatist|playwrite|scriptwriter",
+    "question": "What is Kazuyoshi Sekine's occupation?"
+  },
+  {
+    "_id": "popqa_433",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Iron River (CDP), Wisconsin?"
+  },
+  {
+    "_id": "popqa_434",
+    "answer": "Hemel Hempstead|Hemel",
+    "question": "In what city was Matt Hamilton born?"
+  },
+  {
+    "_id": "popqa_435",
+    "answer": "War Admiral",
+    "question": "Who is the father of Blue Peter?"
+  },
+  {
+    "_id": "popqa_436",
+    "answer": "punk rock|punk|punk music",
+    "question": "What genre is The Take?"
+  },
+  {
+    "_id": "popqa_437",
+    "answer": "Barry Pilton",
+    "question": "Who is the author of The Valley?"
+  },
+  {
+    "_id": "popqa_438",
+    "answer": "David Marshall Grant",
+    "question": "Who is the author of Pen?"
+  },
+  {
+    "_id": "popqa_439",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is John Blake, Jr.'s occupation?"
+  },
+  {
+    "_id": "popqa_440",
+    "answer": "William Churchill deMille|William Churchill de Mille|William C. De Mille|William deMille",
+    "question": "Who was the director of Men and Women?"
+  },
+  {
+    "_id": "popqa_441",
+    "answer": "Anglicanism|Anglicanism, Anglican Church",
+    "question": "What is the religion of James MacManaway?"
+  },
+  {
+    "_id": "popqa_442",
+    "answer": "telenovela|Spanish soap opera",
+    "question": "What genre is Piel?"
+  },
+  {
+    "_id": "popqa_443",
+    "answer": "Czech Republic|CZR|cz|\u010cesko|\u010cesk\u00e1 republika|\u010cR|cze|CZE|Czechia",
+    "question": "In what country is Lo\u010denice?"
+  },
+  {
+    "_id": "popqa_444",
+    "answer": "Bosnia and Herzegovina|Bosnia-Herzegovina|Bosnia|BiH|Bosnia & Herzegovina|B&H|\ud83c\udde7\ud83c\udde6|ba|BIH",
+    "question": "In what country is Gornji Davidovi\u0107i?"
+  },
+  {
+    "_id": "popqa_445",
+    "answer": "Olaf Holtedahl",
+    "question": "Who is the father of Hans Holtedahl?"
+  },
+  {
+    "_id": "popqa_446",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is New York State Route 157?"
+  },
+  {
+    "_id": "popqa_447",
+    "answer": "Paul Cox|Paulus Henriqus Benedictus Cox|Paulus Henrique Benedictus Cox",
+    "question": "Who was the screenwriter for Salvation?"
+  },
+  {
+    "_id": "popqa_448",
+    "answer": "Ukraine|UA|UKR|ua|Ukrainia|\ud83c\uddfa\ud83c\udde6|Ukr.|Ukraina",
+    "question": "In what country is Zhukiv?"
+  },
+  {
+    "_id": "popqa_449",
+    "answer": "jazz|jazz music|jass|jas|jaz|Jazz",
+    "question": "What genre is Dimensions?"
+  },
+  {
+    "_id": "popqa_450",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Peter Murnoy's occupation?"
+  },
+  {
+    "_id": "popqa_451",
+    "answer": "Barrett Watten",
+    "question": "Who is the author of This?"
+  },
+  {
+    "_id": "popqa_452",
+    "answer": "Alexander Scriabin",
+    "question": "Who was the composer of Prelude in F major, Op. 49, No. 2?"
+  },
+  {
+    "_id": "popqa_453",
+    "answer": "tennis|lawn tennis|lawntennis",
+    "question": "What sport does WTA South Orange play?"
+  },
+  {
+    "_id": "popqa_454",
+    "answer": "Perth|Perth, Western Australia|Perth, Australia|Perth, W.A.",
+    "question": "In what city was Ray Strauss born?"
+  },
+  {
+    "_id": "popqa_455",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Mehran Kushk?"
+  },
+  {
+    "_id": "popqa_456",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Tony Wagstaff play?"
+  },
+  {
+    "_id": "popqa_457",
+    "answer": "judo",
+    "question": "What sport does Sol Ky-Ong play?"
+  },
+  {
+    "_id": "popqa_458",
+    "answer": "librarian|library staff",
+    "question": "What is Virginia Haviland's occupation?"
+  },
+  {
+    "_id": "popqa_459",
+    "answer": "Slovenia|Slovenija|Republika Slovenija|si|\ud83c\uddf8\ud83c\uddee|svn|slo|Republic of Slovenia|SLO",
+    "question": "In what country is Grant?"
+  },
+  {
+    "_id": "popqa_460",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is \u00c9gligny?"
+  },
+  {
+    "_id": "popqa_461",
+    "answer": "rock music|rock and roll|rock|Rock",
+    "question": "What genre is Fantasy?"
+  },
+  {
+    "_id": "popqa_462",
+    "answer": "chess|International Chess|Modern European Chess|Western Chess|chess game",
+    "question": "What sport does Marc Santo-Roman play?"
+  },
+  {
+    "_id": "popqa_463",
+    "answer": "Hans Steinhoff",
+    "question": "Who was the director of Mother and Child?"
+  },
+  {
+    "_id": "popqa_464",
+    "answer": "musical film|musical movie",
+    "question": "What genre is The Song of the Suburbs?"
+  },
+  {
+    "_id": "popqa_465",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Borys\u0142awice?"
+  },
+  {
+    "_id": "popqa_466",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Whited Township?"
+  },
+  {
+    "_id": "popqa_467",
+    "answer": "Canada|Dominion of Canada|British North America|CAN|CA|ca|can|Can.",
+    "question": "In what country is SWEAT?"
+  },
+  {
+    "_id": "popqa_468",
+    "answer": "association football|football|soccer",
+    "question": "What sport does David Homol\u00e1\u010d play?"
+  },
+  {
+    "_id": "popqa_469",
+    "answer": "pop music|pop|Pop",
+    "question": "What genre is More Love?"
+  },
+  {
+    "_id": "popqa_470",
+    "answer": "Gemma Hayes",
+    "question": "Who was the composer of Chasing?"
+  },
+  {
+    "_id": "popqa_471",
+    "answer": "Germany|FRG|BRD|Bundesrepublik Deutschland|Federal Republic of Germany|de|Deutschland|GER|BR Deutschland|DE",
+    "question": "In what country is Otto-Selz-Institute of Applied Psychology?"
+  },
+  {
+    "_id": "popqa_472",
+    "answer": "Zschopau",
+    "question": "In what city was Roland Wieser born?"
+  },
+  {
+    "_id": "popqa_473",
+    "answer": "Tehran|Teheran",
+    "question": "In what city was Farman Behboud born?"
+  },
+  {
+    "_id": "popqa_474",
+    "answer": "film director|movie director|director|motion picture director|screenwriter|scenarist|writer|screen writer|script writer|scriptwriter|film producer|movie producer|producer",
+    "question": "What is Franz Seitz Sr.'s occupation?"
+  },
+  {
+    "_id": "popqa_475",
+    "answer": "Ouida|Marie Louise de la Ram\u00e9e|Marie Louise Ram\u00e9|Marie Louise de la Ramee|Marie Louise Rame",
+    "question": "Who is the author of Afternoon?"
+  },
+  {
+    "_id": "popqa_476",
+    "answer": "Karlheinz Stockhausen|Karl-Heinz Stockhausen|Karlheinz Stockhausen",
+    "question": "Who was the composer of Pole?"
+  },
+  {
+    "_id": "popqa_477",
+    "answer": "Ezzat el Kamhawi",
+    "question": "Who is the author of The Guard?"
+  },
+  {
+    "_id": "popqa_478",
+    "answer": "Czech Republic|CZR|cz|\u010cesko|\u010cesk\u00e1 republika|\u010cR|cze|CZE|Czechia",
+    "question": "In what country is Mr\u00e1kot\u00edn?"
+  },
+  {
+    "_id": "popqa_479",
+    "answer": "Hossein Shahabi",
+    "question": "Who was the director of Ghost?"
+  },
+  {
+    "_id": "popqa_480",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Weed?"
+  },
+  {
+    "_id": "popqa_481",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Studzianka, Podlaskie Voivodeship?"
+  },
+  {
+    "_id": "popqa_482",
+    "answer": "Harry S. Webb",
+    "question": "Who was the producer of The Test?"
+  },
+  {
+    "_id": "popqa_483",
+    "answer": "Carmine Gallone|Carmelo Gallone",
+    "question": "Who was the director of Thank You, Madame?"
+  },
+  {
+    "_id": "popqa_484",
+    "answer": "ski mountaineering|SkiMo",
+    "question": "What sport does Oscar Roig Iglesias play?"
+  },
+  {
+    "_id": "popqa_485",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Saint-Pierrevillers?"
+  },
+  {
+    "_id": "popqa_486",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Timon Dobias play?"
+  },
+  {
+    "_id": "popqa_487",
+    "answer": "documentary film|documentary movie|doc|film documentary|motion picture documentary|documentary|factual film",
+    "question": "What genre is A Winter of Cyclists?"
+  },
+  {
+    "_id": "popqa_488",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Fairview Outdoor School?"
+  },
+  {
+    "_id": "popqa_489",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Jos\u00e9 Palmeira Lessa?"
+  },
+  {
+    "_id": "popqa_490",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Peterson?"
+  },
+  {
+    "_id": "popqa_491",
+    "answer": "Lisa See",
+    "question": "Who is the author of The Interior?"
+  },
+  {
+    "_id": "popqa_492",
+    "answer": "Robin Hobb|Margaret Astrid Lindholm Ogden|Megan Lindholm|Margaret Astrid Lindholm",
+    "question": "Who is the author of Homecoming?"
+  },
+  {
+    "_id": "popqa_493",
+    "answer": "Charles Tobias|Harry Tobias",
+    "question": "Who was the composer of Miss You?"
+  },
+  {
+    "_id": "popqa_494",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Saint-Antonin?"
+  },
+  {
+    "_id": "popqa_495",
+    "answer": "Kevin Falls",
+    "question": "Who was the screenwriter for Pilot?"
+  },
+  {
+    "_id": "popqa_496",
+    "answer": "Thrissur|Thrichur|Thrissivaperur",
+    "question": "In what city was I.P. Paul born?"
+  },
+  {
+    "_id": "popqa_497",
+    "answer": "Fernando Ayala",
+    "question": "Who was the producer of Me First?"
+  },
+  {
+    "_id": "popqa_498",
+    "answer": "documentary film|documentary movie|doc|film documentary|motion picture documentary|documentary|factual film",
+    "question": "What genre is The New World?"
+  },
+  {
+    "_id": "popqa_499",
+    "answer": "Germany|FRG|BRD|Bundesrepublik Deutschland|Federal Republic of Germany|de|Deutschland|GER|BR Deutschland|DE",
+    "question": "In what country is Scheidt?"
+  },
+  {
+    "_id": "popqa_500",
+    "answer": "soap opera|soap|soapie|soapopera",
+    "question": "What genre is Magic?"
+  },
+  {
+    "_id": "popqa_501",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is Valea Ple\u0219ii River?"
+  },
+  {
+    "_id": "popqa_502",
+    "answer": "cross-country skiing|XC skiing",
+    "question": "What sport does Hermann Gadner play?"
+  },
+  {
+    "_id": "popqa_503",
+    "answer": "James Hopwood Jeans|James Jeans|Sir James Jeans|Sir James Hopwood Jeans",
+    "question": "Who is the author of The Universe Around Us?"
+  },
+  {
+    "_id": "popqa_504",
+    "answer": "Faroald I of Spoleto",
+    "question": "Who is the father of Theodelap of Spoleto?"
+  },
+  {
+    "_id": "popqa_505",
+    "answer": "Carlos Santana|Carlos Augusto Alves Santana",
+    "question": "Who was the producer of Today?"
+  },
+  {
+    "_id": "popqa_506",
+    "answer": "comedy-drama|dramedy|comedic drama|tragicomedy|seriocomedy|comedy drama|dramatic comedy|Comedy-drama, dramedy",
+    "question": "What genre is The Gap?"
+  },
+  {
+    "_id": "popqa_507",
+    "answer": "Mongolia|mn|Mongol uls|MNG|MGL|\ud83c\uddf2\ud83c\uddf3",
+    "question": "In what country is Khishig-\u00d6nd\u00f6r?"
+  },
+  {
+    "_id": "popqa_508",
+    "answer": "Tamora Pierce",
+    "question": "Who is the author of Page?"
+  },
+  {
+    "_id": "popqa_509",
+    "answer": "Florence|Firenze|Florence, Italy|Florence, Tuscany|Florencia|Florentia|Florenz|Firenca|Florencie|Fiur\u00e4nza|Florentzia|Firense|Firenz|Firenzi",
+    "question": "In what city was Giovanni Stefano Marucelli born?"
+  },
+  {
+    "_id": "popqa_510",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Ozren Peri\u0107 play?"
+  },
+  {
+    "_id": "popqa_511",
+    "answer": "Tinchy Stryder|The Star in the Hood",
+    "question": "Who was the composer of Famous?"
+  },
+  {
+    "_id": "popqa_512",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Abdulhadi Khalaf play?"
+  },
+  {
+    "_id": "popqa_513",
+    "answer": "Germany|FRG|BRD|Bundesrepublik Deutschland|Federal Republic of Germany|de|Deutschland|GER|BR Deutschland|DE",
+    "question": "In what country is Breitenfelde?"
+  },
+  {
+    "_id": "popqa_514",
+    "answer": "Maurizio Ponzi",
+    "question": "Who was the director of Son contento?"
+  },
+  {
+    "_id": "popqa_515",
+    "answer": "Vozhega",
+    "question": "What is the capital of Vozhegodsky District?"
+  },
+  {
+    "_id": "popqa_516",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Javar Tan?"
+  },
+  {
+    "_id": "popqa_517",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Tangal-e Behdan?"
+  },
+  {
+    "_id": "popqa_518",
+    "answer": "portrait|portraiture|portrait art",
+    "question": "What genre is McKendree Long?"
+  },
+  {
+    "_id": "popqa_519",
+    "answer": "Vice Regent",
+    "question": "Who is the father of Regal Embrace?"
+  },
+  {
+    "_id": "popqa_520",
+    "answer": "Turkey|Republic of Turkey|\ud83c\uddf9\ud83c\uddf7|TUR|TR",
+    "question": "In what country is Devalan?"
+  },
+  {
+    "_id": "popqa_521",
+    "answer": "Hossein Shahabi",
+    "question": "Who was the screenwriter for Ghost?"
+  },
+  {
+    "_id": "popqa_522",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Henry Feilden's occupation?"
+  },
+  {
+    "_id": "popqa_523",
+    "answer": "J-pop|Japanese pop|jpop",
+    "question": "What genre is Magic Music?"
+  },
+  {
+    "_id": "popqa_524",
+    "answer": "Lucan Biddulph",
+    "question": "In what city was Brad Goddard born?"
+  },
+  {
+    "_id": "popqa_525",
+    "answer": "South Korea|Republic of Korea|ROK|kr|Rep. Korea|S. Korea|Korea Republic|\ud83c\uddf0\ud83c\uddf7|KOR",
+    "question": "In what city was Moon Joo-won born?"
+  },
+  {
+    "_id": "popqa_526",
+    "answer": "Rosie O'Donnell|Roseann O'Donnell|Roseann Teresa O'Donnell|Roseanne Teresa O'Donnell",
+    "question": "Who is the author of Find Me?"
+  },
+  {
+    "_id": "popqa_527",
+    "answer": "Herman Yau|Herman Yau Lai-to",
+    "question": "Who was the director of Cocktail?"
+  },
+  {
+    "_id": "popqa_528",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is Izvorul Morarului River?"
+  },
+  {
+    "_id": "popqa_529",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Asalem Rural District?"
+  },
+  {
+    "_id": "popqa_530",
+    "answer": "Japan|State of Japan|Land of the Rising Sun|Nihon|Nippon|JP|Nippon-koku|Nihon-koku|JA|JPN|jp|JAP|Ja|Jap",
+    "question": "In what country is T\u014dhoku History Museum?"
+  },
+  {
+    "_id": "popqa_531",
+    "answer": "J-pop|Japanese pop|jpop",
+    "question": "What genre is VS?"
+  },
+  {
+    "_id": "popqa_532",
+    "answer": "Kelley Armstrong|Sarah",
+    "question": "Who is the author of Chaotic?"
+  },
+  {
+    "_id": "popqa_533",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Ciepie\u0144?"
+  },
+  {
+    "_id": "popqa_534",
+    "answer": "Patti Smith|Patricia Lee Smith",
+    "question": "Who is the author of Witt?"
+  },
+  {
+    "_id": "popqa_535",
+    "answer": "Thailand|Kingdom of Thailand|th|Siam|\ud83c\uddf9\ud83c\udded|Land of Smiles|THA",
+    "question": "In what country is Ban On?"
+  },
+  {
+    "_id": "popqa_536",
+    "answer": "Paris|City of Light|Paris, France",
+    "question": "In what city was Pierre Petit born?"
+  },
+  {
+    "_id": "popqa_537",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Abdoul Thiam play?"
+  },
+  {
+    "_id": "popqa_538",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Mark Smalley play?"
+  },
+  {
+    "_id": "popqa_539",
+    "answer": "Hossein Shahabi",
+    "question": "Who was the director of The Photo?"
+  },
+  {
+    "_id": "popqa_540",
+    "answer": "Roscoe Arbuckle|Fatty Arbuckle|Roscoe Conkling Arbuckle|William Goodrich",
+    "question": "Who was the director of A Rowboat Romance?"
+  },
+  {
+    "_id": "popqa_541",
+    "answer": "Mikhail Doller|Mikhail Ivanovich Doller|Vsevolod Pudovkin|Vsevolod Illarionovich Pudovkin|Wsewolod Illarionowitsch Pudowkin",
+    "question": "Who was the director of Victory?"
+  },
+  {
+    "_id": "popqa_542",
+    "answer": "Bamberg|Town of Bamberg",
+    "question": "In what city was Emil Marschalk von Ostheim born?"
+  },
+  {
+    "_id": "popqa_543",
+    "answer": "Serbia|\ud83c\uddf7\ud83c\uddf8|Republic of Serbia|Republika Srbija|rs|Srbija|SRB|RS",
+    "question": "In what country is Kijevac?"
+  },
+  {
+    "_id": "popqa_544",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Pietro Marcenaro's occupation?"
+  },
+  {
+    "_id": "popqa_545",
+    "answer": "Hong Kong|HKSAR|HKG|HK|Hong Kong SAR|China Hong Kong|Hong Kong, China|hk|Hong Kong SAR, China|\ud83c\udded\ud83c\uddf0|Hong Kong Special Administrative Region|Hongkong|xiang gang",
+    "question": "In what city was Li Huai Min born?"
+  },
+  {
+    "_id": "popqa_546",
+    "answer": "Peru|pe|Republic of Peru|Rep\u00fablica del Per\u00fa|\ud83c\uddf5\ud83c\uddea|Republica del Peru",
+    "question": "In what country is Tapay District?"
+  },
+  {
+    "_id": "popqa_547",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Ali Sami Yachir play?"
+  },
+  {
+    "_id": "popqa_548",
+    "answer": "Belgium|Kingdom of Belgium|BEL|be|\ud83c\udde7\ud83c\uddea|BE",
+    "question": "In what country is Eeuwfeestkliniek?"
+  },
+  {
+    "_id": "popqa_549",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is La Couarde-sur-Mer?"
+  },
+  {
+    "_id": "popqa_550",
+    "answer": "country music|country and western|country & western|country|Nashville sound",
+    "question": "What genre is I Will Be There?"
+  },
+  {
+    "_id": "popqa_551",
+    "answer": "actor|actress|actors|actresses",
+    "question": "What is Shorty Hamilton's occupation?"
+  },
+  {
+    "_id": "popqa_552",
+    "answer": "Mikhail Doller|Mikhail Ivanovich Doller|Vsevolod Pudovkin|Vsevolod Illarionovich Pudovkin|Wsewolod Illarionowitsch Pudowkin",
+    "question": "Who was the director of Victory?"
+  },
+  {
+    "_id": "popqa_553",
+    "answer": "Lyudmil Kirkov",
+    "question": "Who was the director of Balance?"
+  },
+  {
+    "_id": "popqa_554",
+    "answer": "Geneva|Gen\u00e8ve|Geneva GE|Geneve|Genf",
+    "question": "In what city was Maurice Reymond de Broutelles born?"
+  },
+  {
+    "_id": "popqa_555",
+    "answer": "Italy|Italia|Italian Republic|IT|\ud83c\uddee\ud83c\uddf9|ITA",
+    "question": "In what country is Revigliasco d'Asti?"
+  },
+  {
+    "_id": "popqa_556",
+    "answer": "Poul Anderson|Poul William Anderson|Winston P. Sanders|A. A. Craig|Michael Karageorge|Petronius Arbiter Kingsley|P. A. Kingsley",
+    "question": "Who is the author of Memory?"
+  },
+  {
+    "_id": "popqa_557",
+    "answer": "Beijing|Peking|Beiping|Peiping|Yanjing|Zhongdu|Khanbaliq|BJ|Shun Tian Fu|Pekin|beijing",
+    "question": "In what city was Xue Fei born?"
+  },
+  {
+    "_id": "popqa_558",
+    "answer": "Secemin",
+    "question": "What is the capital of Gmina Secemin?"
+  },
+  {
+    "_id": "popqa_559",
+    "answer": "Saint Philip",
+    "question": "In what city was Terry Hunte born?"
+  },
+  {
+    "_id": "popqa_560",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Pablo Aguilar play?"
+  },
+  {
+    "_id": "popqa_561",
+    "answer": "alpine skiing",
+    "question": "What sport does Roberto Nani play?"
+  },
+  {
+    "_id": "popqa_562",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Olav T. Laake's occupation?"
+  },
+  {
+    "_id": "popqa_563",
+    "answer": "Darling Point|Darling Point, New South Wales|Darling Point, New South Wales, Australia",
+    "question": "In what city was John Mant born?"
+  },
+  {
+    "_id": "popqa_564",
+    "answer": "India|Bharat|Hindustan|Bharatvarsh|in|IN|Republic of India|\ud83c\uddee\ud83c\uddf3|IND|Aryavratt",
+    "question": "In what country is Tholuvankadu?"
+  },
+  {
+    "_id": "popqa_565",
+    "answer": "Peru|pe|Republic of Peru|Rep\u00fablica del Per\u00fa|\ud83c\uddf5\ud83c\uddea|Republica del Peru",
+    "question": "In what country is Chicche District?"
+  },
+  {
+    "_id": "popqa_566",
+    "answer": "Manuel Romero|Manuel Romeo",
+    "question": "Who was the director of Women Who Work?"
+  },
+  {
+    "_id": "popqa_567",
+    "answer": "philosopher",
+    "question": "What is Andreas R\u00fcdiger's occupation?"
+  },
+  {
+    "_id": "popqa_568",
+    "answer": "Lyn Gardner",
+    "question": "Who is the author of Into the Woods?"
+  },
+  {
+    "_id": "popqa_569",
+    "answer": "Wang Tingcou",
+    "question": "Who is the father of Wang Yuankui?"
+  },
+  {
+    "_id": "popqa_570",
+    "answer": "Melvin Burgess",
+    "question": "Who is the author of Kite?"
+  },
+  {
+    "_id": "popqa_571",
+    "answer": "Saint Lucia|lc|St. Lucia|St Lucia|\ud83c\uddf1\ud83c\udde8|Iyonola|Hewanorra|St. Lucia (island)",
+    "question": "In what country is Barre Denis?"
+  },
+  {
+    "_id": "popqa_572",
+    "answer": "Mansfield|Mansfield, Ohio",
+    "question": "In what city was John Robinson born?"
+  },
+  {
+    "_id": "popqa_573",
+    "answer": "Andrew Motion|Sir Andrew Motion",
+    "question": "Who is the author of Incoming?"
+  },
+  {
+    "_id": "popqa_574",
+    "answer": "association football|football|soccer",
+    "question": "What sport does 2006\u201307 Primera B Nacional play?"
+  },
+  {
+    "_id": "popqa_575",
+    "answer": "Valerie Bloom",
+    "question": "Who is the author of Fruits?"
+  },
+  {
+    "_id": "popqa_576",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is Dr\u0103g\u0103neasa River?"
+  },
+  {
+    "_id": "popqa_577",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Paul Chapman play?"
+  },
+  {
+    "_id": "popqa_578",
+    "answer": "New York City|NYC|New York|the five boroughs|Big Apple|City of New York|NY City|New York, New York|New York City, New York|New York, NY|New York City (NYC)",
+    "question": "In what city was David Granger born?"
+  },
+  {
+    "_id": "popqa_579",
+    "answer": "Harrisburg|Capital of Pennsylvania|Harrisburg, Pennsylvania",
+    "question": "In what city was Clarence Beck born?"
+  },
+  {
+    "_id": "popqa_580",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Neal?"
+  },
+  {
+    "_id": "popqa_581",
+    "answer": "Andy Mangels",
+    "question": "Who is the author of Pursuit?"
+  },
+  {
+    "_id": "popqa_582",
+    "answer": "actor|actress|actors|actresses",
+    "question": "What is Edwin Wallock's occupation?"
+  },
+  {
+    "_id": "popqa_583",
+    "answer": "Liz Friedlander",
+    "question": "Who was the director of Freedom?"
+  },
+  {
+    "_id": "popqa_584",
+    "answer": "Peter Oresick",
+    "question": "Who is the author of For a Living?"
+  },
+  {
+    "_id": "popqa_585",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Thomas Widdrington's occupation?"
+  },
+  {
+    "_id": "popqa_586",
+    "answer": "Wyllis Cooper|Willis Cooper",
+    "question": "Who was the director of Escape?"
+  },
+  {
+    "_id": "popqa_587",
+    "answer": "Gerard Woodward",
+    "question": "Who is the author of August?"
+  },
+  {
+    "_id": "popqa_588",
+    "answer": "Hideyuki Kikuchi",
+    "question": "Who is the author of The Sword of Shibito?"
+  },
+  {
+    "_id": "popqa_589",
+    "answer": "Chesterfield|Chesterfield, South Carolina|Chesterfield, SC",
+    "question": "In what city was Robert B. Scarborough born?"
+  },
+  {
+    "_id": "popqa_590",
+    "answer": "Ahmed Ahmed",
+    "question": "Who was the producer of Just Like Us?"
+  },
+  {
+    "_id": "popqa_591",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Cze\u015bniki-Kolonia G\u00f3rna?"
+  },
+  {
+    "_id": "popqa_592",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is Valea Seac\u0103 River?"
+  },
+  {
+    "_id": "popqa_593",
+    "answer": "Osiecznica, Lower Silesian Voivodeship",
+    "question": "What is the capital of Gmina Osiecznica?"
+  },
+  {
+    "_id": "popqa_594",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Miroslav Milutinovi\u0107 play?"
+  },
+  {
+    "_id": "popqa_595",
+    "answer": "Dafydd ab Hugh",
+    "question": "Who is the author of Balance of Power?"
+  },
+  {
+    "_id": "popqa_596",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Lek Kcira play?"
+  },
+  {
+    "_id": "popqa_597",
+    "answer": "Germany|FRG|BRD|Bundesrepublik Deutschland|Federal Republic of Germany|de|Deutschland|GER|BR Deutschland|DE",
+    "question": "In what country is Wiesau?"
+  },
+  {
+    "_id": "popqa_598",
+    "answer": "Cherkasy Oblast|Cherkas'ka oblast'|Cherkashchyna",
+    "question": "In what city was Volodymyr O. Kravets born?"
+  },
+  {
+    "_id": "popqa_599",
+    "answer": "tennis|lawn tennis|lawntennis",
+    "question": "What sport does 2004 Legg Mason Tennis Classic play?"
+  },
+  {
+    "_id": "popqa_600",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Shuto Suzuki play?"
+  },
+  {
+    "_id": "popqa_601",
+    "answer": "association football|football|soccer",
+    "question": "What sport does George Burley play?"
+  },
+  {
+    "_id": "popqa_602",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is canton of Baugy?"
+  },
+  {
+    "_id": "popqa_603",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Mohammadabad-e Razzaqzadeh?"
+  },
+  {
+    "_id": "popqa_604",
+    "answer": "J-pop|Japanese pop|jpop",
+    "question": "What genre is Koko ni Iruzee!?"
+  },
+  {
+    "_id": "popqa_605",
+    "answer": "Alexander Butler",
+    "question": "Who was the director of The Night Riders?"
+  },
+  {
+    "_id": "popqa_606",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Blenheim?"
+  },
+  {
+    "_id": "popqa_607",
+    "answer": "India|Bharat|Hindustan|Bharatvarsh|in|IN|Republic of India|\ud83c\uddee\ud83c\uddf3|IND|Aryavratt",
+    "question": "In what country is Devanur?"
+  },
+  {
+    "_id": "popqa_608",
+    "answer": "Eddie Vedder|Eddie Jerome Vedder|Edward Louis Severson III",
+    "question": "Who was the composer of Porch?"
+  },
+  {
+    "_id": "popqa_609",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is F\u00e2nt\u00e2neaua Rece River?"
+  },
+  {
+    "_id": "popqa_610",
+    "answer": "fencing",
+    "question": "What sport does Elisabeta Guzganu-Tufan play?"
+  },
+  {
+    "_id": "popqa_611",
+    "answer": "Howard Gordon|Evan Katz",
+    "question": "Who was the screenwriter for Guilty?"
+  },
+  {
+    "_id": "popqa_612",
+    "answer": "Japan|State of Japan|Land of the Rising Sun|Nihon|Nippon|JP|Nippon-koku|Nihon-koku|JA|JPN|jp|JAP|Ja|Jap",
+    "question": "In what country is Tsutsui Station?"
+  },
+  {
+    "_id": "popqa_613",
+    "answer": "Brescia|Lioness of Italy",
+    "question": "In what city was Andrea di Alessandro born?"
+  },
+  {
+    "_id": "popqa_614",
+    "answer": "Maurits Binger|Maurits H. Binger",
+    "question": "Who was the director of Zonnetje?"
+  },
+  {
+    "_id": "popqa_615",
+    "answer": "Stan Lathan",
+    "question": "Who was the director of Hakeem's New Flame?"
+  },
+  {
+    "_id": "popqa_616",
+    "answer": "Nigel Hinton",
+    "question": "Who is the author of Getting Free?"
+  },
+  {
+    "_id": "popqa_617",
+    "answer": "Kure",
+    "question": "In what city was Shinji Hamazaki born?"
+  },
+  {
+    "_id": "popqa_618",
+    "answer": "Roger Marshall",
+    "question": "Who was the screenwriter for Death of a Batman?"
+  },
+  {
+    "_id": "popqa_619",
+    "answer": "Montreal|Montr\u00e9al|City of Montreal|Montreal, Quebec|Ville de Montr\u00e9al|Ville de Montreal",
+    "question": "In what city was Frederick Mackenzie born?"
+  },
+  {
+    "_id": "popqa_620",
+    "answer": "Sri Lanka|Democratic Socialist Republic of Sri Lanka|Ceylon|Taprobane|Serendib|Ceylan|\ud83c\uddf1\ud83c\uddf0|lk|Lanka, Sri|sri|lke|ce|Srilanka|SRI|\u0633\u0631\u0646\u062f\u064a\u0628|\u0633\u064a\u0644\u0627\u0646",
+    "question": "In what country is Hatnagoda?"
+  },
+  {
+    "_id": "popqa_621",
+    "answer": "Zakhar Prilepin|Yevgeny Nikolayevich Prilepin",
+    "question": "Who is the author of Sin?"
+  },
+  {
+    "_id": "popqa_622",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Pichlice?"
+  },
+  {
+    "_id": "popqa_623",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Eslamabad-e Mashayekh?"
+  },
+  {
+    "_id": "popqa_624",
+    "answer": "Bolivia|Plurinational State of Bolivia|bo|bol|\ud83c\udde7\ud83c\uddf4|Republic of Bolivia|BOL|Bolivia (Plurinational State of)",
+    "question": "In what country is Ch'uch'u Apachita?"
+  },
+  {
+    "_id": "popqa_625",
+    "answer": "Basildon",
+    "question": "In what city was Andy Keeley born?"
+  },
+  {
+    "_id": "popqa_626",
+    "answer": "Karlskoga",
+    "question": "In what city was Mikael Eriksson born?"
+  },
+  {
+    "_id": "popqa_627",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Ahmadabad-e Razavi?"
+  },
+  {
+    "_id": "popqa_628",
+    "answer": "film director|movie director|director|motion picture director|screenwriter|scenarist|writer|screen writer|script writer|scriptwriter",
+    "question": "What is J\u00f6rg A. Eggers's occupation?"
+  },
+  {
+    "_id": "popqa_629",
+    "answer": "Kinaryosih",
+    "question": "Who was the producer of Maling Kutang?"
+  },
+  {
+    "_id": "popqa_630",
+    "answer": "Philippa Pearce|Ann Philippa Pearce",
+    "question": "Who is the author of The Squirrel Wife?"
+  },
+  {
+    "_id": "popqa_631",
+    "answer": "Aceh Timur",
+    "question": "What is Idi Rayeuk the capital of?"
+  },
+  {
+    "_id": "popqa_632",
+    "answer": "Burg|Burg bei Magdeburg|Burg (bei Magdeburg)|Burg (b Magdeburg)|Stadt Burg",
+    "question": "In what city was Heiko Balz born?"
+  },
+  {
+    "_id": "popqa_633",
+    "answer": "Manuel Puig|Juan Manuel Puig Delledonne",
+    "question": "Who was the screenwriter for Boquitas pintadas?"
+  },
+  {
+    "_id": "popqa_634",
+    "answer": "Metaphrog",
+    "question": "Who is the author of Louis?"
+  },
+  {
+    "_id": "popqa_635",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Brizambourg?"
+  },
+  {
+    "_id": "popqa_636",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Elvin Penner's occupation?"
+  },
+  {
+    "_id": "popqa_637",
+    "answer": "Katherine Kurtz|Katherine Irene Kurtz",
+    "question": "Who is the author of The Bishop's Heir?"
+  },
+  {
+    "_id": "popqa_638",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Indonesia Education League play?"
+  },
+  {
+    "_id": "popqa_639",
+    "answer": "fencing",
+    "question": "What sport does Louis Perr\u00e9e play?"
+  },
+  {
+    "_id": "popqa_640",
+    "answer": "association football|football|soccer",
+    "question": "What sport does George Douglas play?"
+  },
+  {
+    "_id": "popqa_641",
+    "answer": "Manoel de Oliveira|Manoel C\u00e2ndido Pinto de Oliveira",
+    "question": "Who was the producer of The Hunt?"
+  },
+  {
+    "_id": "popqa_642",
+    "answer": "Statesville|Statesville, North Carolina",
+    "question": "In what city was Pete Stewart born?"
+  },
+  {
+    "_id": "popqa_643",
+    "answer": "Kristen Bjorn|Robert Russell",
+    "question": "Who was the producer of Italian Style?"
+  },
+  {
+    "_id": "popqa_644",
+    "answer": "basketball|hoops|b-ball|basket ball|BB|Basketball",
+    "question": "What sport does Irina Crasnoscioc play?"
+  },
+  {
+    "_id": "popqa_645",
+    "answer": "Carol Burnett|Carol Creighton Burnett",
+    "question": "Who is the author of One More Time?"
+  },
+  {
+    "_id": "popqa_646",
+    "answer": "Pieter Verhoeff",
+    "question": "Who was the director of Mates?"
+  },
+  {
+    "_id": "popqa_647",
+    "answer": "Domnall Ilchelgach|Domnall mac Muirchertaig|Domnall mac Maic Ercae|Domnall 'Ilchegach', High King of Ireland",
+    "question": "Who is the father of Colcu mac Domnaill?"
+  },
+  {
+    "_id": "popqa_648",
+    "answer": "Maarten 't Hart|Martin Hart",
+    "question": "Who is the author of Het uur tussen hond en wolf?"
+  },
+  {
+    "_id": "popqa_649",
+    "answer": "Germany|FRG|BRD|Bundesrepublik Deutschland|Federal Republic of Germany|de|Deutschland|GER|BR Deutschland|DE",
+    "question": "In what country is Eschbronn?"
+  },
+  {
+    "_id": "popqa_650",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Ormak, Isfahan?"
+  },
+  {
+    "_id": "popqa_651",
+    "answer": "Constantine I of Georgia|Constantine I Bagrationi, King of Georgia",
+    "question": "Who is the father of George?"
+  },
+  {
+    "_id": "popqa_652",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Walter de la Pole's occupation?"
+  },
+  {
+    "_id": "popqa_653",
+    "answer": "Riga|R\u012bga|Ryga|Rige|Riia|Rija|R\u012bg\u00f5",
+    "question": "In what city was Raimonds Vilde born?"
+  },
+  {
+    "_id": "popqa_654",
+    "answer": "Masaharu Fukuyama",
+    "question": "Who was the composer of Hello?"
+  },
+  {
+    "_id": "popqa_655",
+    "answer": "progressive house|Progressive House|Prog House",
+    "question": "What genre is It Sounds Like?"
+  },
+  {
+    "_id": "popqa_656",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Szczecin Scientific Society?"
+  },
+  {
+    "_id": "popqa_657",
+    "answer": "Franco Castellano|Giuseppe Moccia",
+    "question": "Who was the director of College?"
+  },
+  {
+    "_id": "popqa_658",
+    "answer": "journalist|journo|journalists",
+    "question": "What is Muhammad Ali Luqman's occupation?"
+  },
+  {
+    "_id": "popqa_659",
+    "answer": "Antun Vrdoljak",
+    "question": "Who was the director of The Key?"
+  },
+  {
+    "_id": "popqa_660",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Ademar Aparecido Xavier J\u00fanior play?"
+  },
+  {
+    "_id": "popqa_661",
+    "answer": "Mitch Cullin",
+    "question": "Who is the author of Branches?"
+  },
+  {
+    "_id": "popqa_662",
+    "answer": "Warren Ellis|Warren Girard Ellis",
+    "question": "Who is the author of Down?"
+  },
+  {
+    "_id": "popqa_663",
+    "answer": "jazz|jazz music|jass|jas|jaz|Jazz",
+    "question": "What genre is Collaboration West?"
+  },
+  {
+    "_id": "popqa_664",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Andrew Tucker play?"
+  },
+  {
+    "_id": "popqa_665",
+    "answer": "comedy film|comedy movie",
+    "question": "What genre is The Other Man?"
+  },
+  {
+    "_id": "popqa_666",
+    "answer": "Anne Provoost",
+    "question": "Who is the author of Falling?"
+  },
+  {
+    "_id": "popqa_667",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Jos\u00e9 Diogo Macedo Silva play?"
+  },
+  {
+    "_id": "popqa_668",
+    "answer": "Japan|State of Japan|Land of the Rising Sun|Nihon|Nippon|JP|Nippon-koku|Nihon-koku|JA|JPN|jp|JAP|Ja|Jap",
+    "question": "In what country is Seishi Ursula Gakuen Junior College?"
+  },
+  {
+    "_id": "popqa_669",
+    "answer": "Bolivia|Plurinational State of Bolivia|bo|bol|\ud83c\udde7\ud83c\uddf4|Republic of Bolivia|BOL|Bolivia (Plurinational State of)",
+    "question": "In what country is El Carmen Rivero T\u00f3rrez?"
+  },
+  {
+    "_id": "popqa_670",
+    "answer": "Stone|Stone, Staffordshire",
+    "question": "In what city was Keri Lees born?"
+  },
+  {
+    "_id": "popqa_671",
+    "answer": "Peru|pe|Republic of Peru|Rep\u00fablica del Per\u00fa|\ud83c\uddf5\ud83c\uddea|Republica del Peru",
+    "question": "In what country is Chalhuacocha?"
+  },
+  {
+    "_id": "popqa_672",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Luis Eduardo Maldonado play?"
+  },
+  {
+    "_id": "popqa_673",
+    "answer": "Cincinnati|Cincy|Cincinnati, Ohio|Cinti|Cincinnati, OH|Cin City",
+    "question": "In what city was Margot Shumway born?"
+  },
+  {
+    "_id": "popqa_674",
+    "answer": "Carl Nielsen|Carl August Nielsen",
+    "question": "Who was the composer of String Quartet No. 3?"
+  },
+  {
+    "_id": "popqa_675",
+    "answer": "Lynn Coady",
+    "question": "Who is the author of Saints of Big Harbour?"
+  },
+  {
+    "_id": "popqa_676",
+    "answer": "lawyer|attorney|solicitor|barrister|lawyers|politician|political leader|political figure|polit.|pol",
+    "question": "What is James M. Geraghty's occupation?"
+  },
+  {
+    "_id": "popqa_677",
+    "answer": "Jack Dann|Jack M. Dann|Jack Mayo Dann|Gardner Dozois|Gardner Raymond Dozois",
+    "question": "Who is the author of Robots?"
+  },
+  {
+    "_id": "popqa_678",
+    "answer": "young adult literature|juvenile fiction|YA|youth literature|juvenile literature|young adult fiction|YA literature|YA fiction",
+    "question": "What genre is Detour for Emmy?"
+  },
+  {
+    "_id": "popqa_679",
+    "answer": "Slovenia|Slovenija|Republika Slovenija|si|\ud83c\uddf8\ud83c\uddee|svn|slo|Republic of Slovenia|SLO",
+    "question": "In what country is Movra\u017e?"
+  },
+  {
+    "_id": "popqa_680",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Radek Opr\u0161al play?"
+  },
+  {
+    "_id": "popqa_681",
+    "answer": "Star Kingdom",
+    "question": "Who is the father of Skyline?"
+  },
+  {
+    "_id": "popqa_682",
+    "answer": "Kilwinning|The Crossroads of Ayrshire",
+    "question": "In what city was Paul Walker born?"
+  },
+  {
+    "_id": "popqa_683",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Vera?"
+  },
+  {
+    "_id": "popqa_684",
+    "answer": "Lin Carter|Linwood Vrooman Carter|Grail Undwin|H. P. Lowcraft|Linwood Carter",
+    "question": "Who is the author of Great Short Novels of Adult Fantasy I?"
+  },
+  {
+    "_id": "popqa_685",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Villers-sous-Foucarmont?"
+  },
+  {
+    "_id": "popqa_686",
+    "answer": "Yangzom Brauen",
+    "question": "Who is the author of Across Many Mountains?"
+  },
+  {
+    "_id": "popqa_687",
+    "answer": "composer",
+    "question": "What is Richard Harris's occupation?"
+  },
+  {
+    "_id": "popqa_688",
+    "answer": "J-pop|Japanese pop|jpop",
+    "question": "What genre is Buono! 2?"
+  },
+  {
+    "_id": "popqa_689",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is G\u0105siorowo, Legionowo County?"
+  },
+  {
+    "_id": "popqa_690",
+    "answer": "association football|football|soccer",
+    "question": "What sport does David Davidson play?"
+  },
+  {
+    "_id": "popqa_691",
+    "answer": "Australia|Commonwealth of Australia|AU|AUS|au|British Colony of Australia|\ud83c\udde6\ud83c\uddfa|Straya|Aussieland",
+    "question": "In what country is Dual Plover?"
+  },
+  {
+    "_id": "popqa_692",
+    "answer": "Mario Soffici",
+    "question": "Who was the producer of The Accused?"
+  },
+  {
+    "_id": "popqa_693",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Jin Zhiyang play?"
+  },
+  {
+    "_id": "popqa_694",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is Taia River?"
+  },
+  {
+    "_id": "popqa_695",
+    "answer": "Damon Knight|Damon Francis Knight|Stuart Fleming|Conanight",
+    "question": "Who is the author of Time Enough?"
+  },
+  {
+    "_id": "popqa_696",
+    "answer": "Pramoedya Ananta Toer",
+    "question": "Who is the author of It's Not an All Night Fair?"
+  },
+  {
+    "_id": "popqa_697",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is D\u0105bkowice, \u0141\u00f3d\u017a Voivodeship?"
+  },
+  {
+    "_id": "popqa_698",
+    "answer": "Glenda Larke|Glenda Noramly",
+    "question": "Who is the author of The Aware?"
+  },
+  {
+    "_id": "popqa_699",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of James Albert Duffy?"
+  },
+  {
+    "_id": "popqa_700",
+    "answer": "Brighton|Brighthelmston|Brighthelmstone|Brighton, East Sussex|Brighton, England",
+    "question": "In what city was Henry Soames born?"
+  },
+  {
+    "_id": "popqa_701",
+    "answer": "Henry Fielding|Henri Fielding|Scriblerus Secundus|Conny Keyber|Alexander Drawcansir|John Trottplaid|Hercules Vinegar|Henri Filding|Lemuel Gulliver|Petrus Gualterus|Enrique Fielding|Genri Fil\u02b9ding",
+    "question": "Who was the screenwriter for Tom Jones?"
+  },
+  {
+    "_id": "popqa_702",
+    "answer": "trance|trance music|Trance",
+    "question": "What genre is Progression?"
+  },
+  {
+    "_id": "popqa_703",
+    "answer": "Puebla|Free and Sovereign State of Puebla|Estado de Puebla",
+    "question": "In what city was Leobardo Soto born?"
+  },
+  {
+    "_id": "popqa_704",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Joys?"
+  },
+  {
+    "_id": "popqa_705",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Vyacheslav Chadov play?"
+  },
+  {
+    "_id": "popqa_706",
+    "answer": "mandopop|Mandarin popular music|mandapop",
+    "question": "What genre is Drama?"
+  },
+  {
+    "_id": "popqa_707",
+    "answer": "Australia|Commonwealth of Australia|AU|AUS|au|British Colony of Australia|\ud83c\udde6\ud83c\uddfa|Straya|Aussieland",
+    "question": "In what country is Mackay Courthouse?"
+  },
+  {
+    "_id": "popqa_708",
+    "answer": "Guarulhos",
+    "question": "In what city was Wellington Santos da Silva born?"
+  },
+  {
+    "_id": "popqa_709",
+    "answer": "Alasdair Gray|Alasdair James Gray",
+    "question": "Who is the author of Martin?"
+  },
+  {
+    "_id": "popqa_710",
+    "answer": "Berlin|Berlin, Germany|Berlin (Germany)|DE-BE",
+    "question": "In what city was Gerhard Ludwig born?"
+  },
+  {
+    "_id": "popqa_711",
+    "answer": "mathematician",
+    "question": "What is Rodrigo Arocena's occupation?"
+  },
+  {
+    "_id": "popqa_712",
+    "answer": "ski jumping",
+    "question": "What sport does Radik Zhaparov play?"
+  },
+  {
+    "_id": "popqa_713",
+    "answer": "ice hockey",
+    "question": "What sport does Daniel Manzato play?"
+  },
+  {
+    "_id": "popqa_714",
+    "answer": "Idries Shah|Arkon Daraul",
+    "question": "Who is the author of Neglected Aspects of Sufi Study?"
+  },
+  {
+    "_id": "popqa_715",
+    "answer": "journalist|journo|journalists|television producer|TV producer|producer|Tv producer|Series Producer|Producer (television)|Television executive producer",
+    "question": "What is Debra Weeks's occupation?"
+  },
+  {
+    "_id": "popqa_716",
+    "answer": "David Vernon|David Michael Vernon",
+    "question": "Who is the author of With Women?"
+  },
+  {
+    "_id": "popqa_717",
+    "answer": "Nigel Cox",
+    "question": "Who is the author of Responsibility?"
+  },
+  {
+    "_id": "popqa_718",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Givron?"
+  },
+  {
+    "_id": "popqa_719",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Kyriakos Mavronikolas's occupation?"
+  },
+  {
+    "_id": "popqa_720",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Arlington?"
+  },
+  {
+    "_id": "popqa_721",
+    "answer": "impresario|Talent Manager",
+    "question": "What is Giora Godik's occupation?"
+  },
+  {
+    "_id": "popqa_722",
+    "answer": "diplomat|politician|political leader|political figure|polit.|pol",
+    "question": "What is James Alex Msekela's occupation?"
+  },
+  {
+    "_id": "popqa_723",
+    "answer": "Charles Chauvel|Charles Edward Chauvel",
+    "question": "Who was the director of While There is Still Time?"
+  },
+  {
+    "_id": "popqa_724",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Luan Viana Patroc\u00ednio play?"
+  },
+  {
+    "_id": "popqa_725",
+    "answer": "H. Beam Piper|Henry Beam Piper|Horace Beam Piper|Herbert Beam Piper",
+    "question": "Who is the author of Federation?"
+  },
+  {
+    "_id": "popqa_726",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is Alexeni River?"
+  },
+  {
+    "_id": "popqa_727",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Radoslav Rashkov play?"
+  },
+  {
+    "_id": "popqa_728",
+    "answer": "Abdur Rashid Kardar|A. R. Kardar",
+    "question": "Who was the director of The Saint?"
+  },
+  {
+    "_id": "popqa_729",
+    "answer": "Moscow|Moskva|Moscow, Russia|Moskva Federal City, Russia|Moscow, USSR|Moskva, Russia|City of Moscow|Moscow, Russian Federation|Moscow, Soviet Union|Moscow, Russian SFSR|Muscovite|Moscovite",
+    "question": "In what city was Aleksandr Nekrasov born?"
+  },
+  {
+    "_id": "popqa_730",
+    "answer": "Val Gielgud|Val Henry Gielgud|Val H. Gielgud",
+    "question": "Who was the screenwriter for Ending It?"
+  },
+  {
+    "_id": "popqa_731",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Pedro Ferreira-Mendes play?"
+  },
+  {
+    "_id": "popqa_732",
+    "answer": "Metro-Goldwyn-Mayer|MGM",
+    "question": "Who was the producer of Benjamin Franklin, Jr.?"
+  },
+  {
+    "_id": "popqa_733",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Juan Carlos Stauskas play?"
+  },
+  {
+    "_id": "popqa_734",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Universit\u00e9 Nationale du B\u00e9nin FC play?"
+  },
+  {
+    "_id": "popqa_735",
+    "answer": "Stuart Woods",
+    "question": "Who is the author of Dirt?"
+  },
+  {
+    "_id": "popqa_736",
+    "answer": "comedy film|comedy movie",
+    "question": "What genre is Dr\u00f4les de z\u00e8bres?"
+  },
+  {
+    "_id": "popqa_737",
+    "answer": "Roermond|Remunj",
+    "question": "In what city was Matthijs Dulken born?"
+  },
+  {
+    "_id": "popqa_738",
+    "answer": "Evan Parker",
+    "question": "Who was the composer of The Moment's Energy?"
+  },
+  {
+    "_id": "popqa_739",
+    "answer": "Mario Mattoli",
+    "question": "Who was the screenwriter for These Children?"
+  },
+  {
+    "_id": "popqa_740",
+    "answer": "Czech Republic|CZR|cz|\u010cesko|\u010cesk\u00e1 republika|\u010cR|cze|CZE|Czechia",
+    "question": "In what country is Rozsochatec?"
+  },
+  {
+    "_id": "popqa_741",
+    "answer": "handball|Olympic handball|European team handball|European handball|Borden ball|Pallammanu|team handball",
+    "question": "What sport does Adel Bousmal play?"
+  },
+  {
+    "_id": "popqa_742",
+    "answer": "fencing",
+    "question": "What sport does Alexandru Chiculi\u021b\u0103 play?"
+  },
+  {
+    "_id": "popqa_743",
+    "answer": "tennis|lawn tennis|lawntennis",
+    "question": "What sport does 1994 Swedish Open play?"
+  },
+  {
+    "_id": "popqa_744",
+    "answer": "Mike Costa",
+    "question": "Who is the author of Resistance?"
+  },
+  {
+    "_id": "popqa_745",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Charles Harrison's occupation?"
+  },
+  {
+    "_id": "popqa_746",
+    "answer": "public art",
+    "question": "What genre is Hara?"
+  },
+  {
+    "_id": "popqa_747",
+    "answer": "Christine Fellows|Clive Holden|Jason Tait",
+    "question": "Who was the producer of Trains of Winnipeg?"
+  },
+  {
+    "_id": "popqa_748",
+    "answer": "telenovela|Spanish soap opera",
+    "question": "What genre is El usurpador?"
+  },
+  {
+    "_id": "popqa_749",
+    "answer": "action game|action video game",
+    "question": "What genre is Heist?"
+  },
+  {
+    "_id": "popqa_750",
+    "answer": "Sidney Olcott",
+    "question": "Who was the director of Not So Long Ago?"
+  },
+  {
+    "_id": "popqa_751",
+    "answer": "composer",
+    "question": "What is Alan Mauritz Swanson's occupation?"
+  },
+  {
+    "_id": "popqa_752",
+    "answer": "Finos Film",
+    "question": "Who was the producer of O skliros andras?"
+  },
+  {
+    "_id": "popqa_753",
+    "answer": "association football|football|soccer",
+    "question": "What sport does E Sour El Ghozlane play?"
+  },
+  {
+    "_id": "popqa_754",
+    "answer": "Warsaw|Warszawa|Varshe|Warschau|Varshava|Var\u0161ava|Vars\u00f3|Varsavia|Varsovie|Varsovia|Var\u0161uva",
+    "question": "In what city was Szymon Kataszek born?"
+  },
+  {
+    "_id": "popqa_755",
+    "answer": "Melissa Marr|M. A. Marr|Melissa A Marr",
+    "question": "Who is the author of Carnival of Souls?"
+  },
+  {
+    "_id": "popqa_756",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Patrick Edema play?"
+  },
+  {
+    "_id": "popqa_757",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Francis play?"
+  },
+  {
+    "_id": "popqa_758",
+    "answer": "Amsterdam|Mokum|Amsterdam, NL|Amsterdam, Netherlands|A'dam",
+    "question": "In what city was Izhar Elias born?"
+  },
+  {
+    "_id": "popqa_759",
+    "answer": "Japan|State of Japan|Land of the Rising Sun|Nihon|Nippon|JP|Nippon-koku|Nihon-koku|JA|JPN|jp|JAP|Ja|Jap",
+    "question": "In what country is Asahi Station?"
+  },
+  {
+    "_id": "popqa_760",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Thomas Challis's occupation?"
+  },
+  {
+    "_id": "popqa_761",
+    "answer": "documentary film|documentary movie|doc|film documentary|motion picture documentary|documentary|factual film",
+    "question": "What genre is Reminiscences?"
+  },
+  {
+    "_id": "popqa_762",
+    "answer": "Spain|Espa\u00f1a|Kingdom of Spain|ES|ESP",
+    "question": "In what country is Gimenells i el Pla de la Font?"
+  },
+  {
+    "_id": "popqa_763",
+    "answer": "Luna Sea|Lunacy",
+    "question": "Who was the composer of Shine?"
+  },
+  {
+    "_id": "popqa_764",
+    "answer": "crime film|crime movie",
+    "question": "What genre is Betrayal?"
+  },
+  {
+    "_id": "popqa_765",
+    "answer": "Jay Woelfel",
+    "question": "Who was the screenwriter for Party?"
+  },
+  {
+    "_id": "popqa_766",
+    "answer": "Spain|Espa\u00f1a|Kingdom of Spain|ES|ESP",
+    "question": "In what country is Villalcampo?"
+  },
+  {
+    "_id": "popqa_767",
+    "answer": "rhythm and blues|R&B|RnB|RNB|R and B|R & B",
+    "question": "What genre is Apollo?"
+  },
+  {
+    "_id": "popqa_768",
+    "answer": "surgeon|surgeons",
+    "question": "What is Herman A. Barnett's occupation?"
+  },
+  {
+    "_id": "popqa_769",
+    "answer": "Ernst Winar",
+    "question": "Who was the producer of De Laatste Dagen van een Eiland?"
+  },
+  {
+    "_id": "popqa_770",
+    "answer": "Elizabeth Moon",
+    "question": "Who is the author of Against the Odds?"
+  },
+  {
+    "_id": "popqa_771",
+    "answer": "actor|actress|actors|actresses",
+    "question": "What is \u0110ur\u0111a Ivezi\u0107's occupation?"
+  },
+  {
+    "_id": "popqa_772",
+    "answer": "Japan|State of Japan|Land of the Rising Sun|Nihon|Nippon|JP|Nippon-koku|Nihon-koku|JA|JPN|jp|JAP|Ja|Jap",
+    "question": "In what country is Ago?"
+  },
+  {
+    "_id": "popqa_773",
+    "answer": "synth-pop|synthesizer pop|techno-pop|synthpop",
+    "question": "What genre is Neighbours?"
+  },
+  {
+    "_id": "popqa_774",
+    "answer": "Canada|Dominion of Canada|British North America|CAN|CA|ca|can|Can.",
+    "question": "In what country is Quebec Route 213?"
+  },
+  {
+    "_id": "popqa_775",
+    "answer": "Georg Jacoby",
+    "question": "Who was the director of Indizienbeweis?"
+  },
+  {
+    "_id": "popqa_776",
+    "answer": "association football|football|soccer",
+    "question": "What sport does John Parsons play?"
+  },
+  {
+    "_id": "popqa_777",
+    "answer": "Alfredo Giannetti",
+    "question": "Who was the director of Day by Day?"
+  },
+  {
+    "_id": "popqa_778",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Radoslav \u0160koln\u00edk play?"
+  },
+  {
+    "_id": "popqa_779",
+    "answer": "Geneseo|Geneseo, Illinois",
+    "question": "In what city was Todd Sieben born?"
+  },
+  {
+    "_id": "popqa_780",
+    "answer": "Gary Coleman|Gary Wayne Coleman",
+    "question": "Who was the producer of Party?"
+  },
+  {
+    "_id": "popqa_781",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Goldasht, Sistan and Baluchestan?"
+  },
+  {
+    "_id": "popqa_782",
+    "answer": "Babice, Chrzan\u00f3w County",
+    "question": "What is the capital of Gmina Babice?"
+  },
+  {
+    "_id": "popqa_783",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Walter Pfeiffer play?"
+  },
+  {
+    "_id": "popqa_784",
+    "answer": "David Belasco",
+    "question": "Who is the author of Men and Women?"
+  },
+  {
+    "_id": "popqa_785",
+    "answer": "Jersey City|Jersey City, New Jersey",
+    "question": "In what city was Rob Lukachyk born?"
+  },
+  {
+    "_id": "popqa_786",
+    "answer": "Ed Earl Repp|Bradnor Buckner|Edward Earl Repp",
+    "question": "Who is the author of Science-Fantasy Quintette?"
+  },
+  {
+    "_id": "popqa_787",
+    "answer": "Pesaro",
+    "question": "In what city was Andrea Magi born?"
+  },
+  {
+    "_id": "popqa_788",
+    "answer": "Quintin Jardine",
+    "question": "Who is the author of Skinner's Rules?"
+  },
+  {
+    "_id": "popqa_789",
+    "answer": "Anglicanism|Anglicanism, Anglican Church",
+    "question": "What is the religion of William Preston?"
+  },
+  {
+    "_id": "popqa_790",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is Ciucurul Orbului River?"
+  },
+  {
+    "_id": "popqa_791",
+    "answer": "Herbert Mason|Samuel George Herbert Mason",
+    "question": "Who was the director of Fingers?"
+  },
+  {
+    "_id": "popqa_792",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Harry Clay play?"
+  },
+  {
+    "_id": "popqa_793",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Maximiliano Cuberas play?"
+  },
+  {
+    "_id": "popqa_794",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Heinrich Fasching?"
+  },
+  {
+    "_id": "popqa_795",
+    "answer": "Hossein Shahabi",
+    "question": "Who was the producer of Ghost?"
+  },
+  {
+    "_id": "popqa_796",
+    "answer": "Maurits Binger|Maurits H. Binger",
+    "question": "Who was the producer of John Heriot's Wife?"
+  },
+  {
+    "_id": "popqa_797",
+    "answer": "Tian Zhuangzhuang|Zhuangzhuang Tian|T\u2018ien Chuang-chuang|T\u2018ien, Chuang-chuang|Chuang-chuang T\u2018ien",
+    "question": "Who was the director of September?"
+  },
+  {
+    "_id": "popqa_798",
+    "answer": "death metal|Death Metal",
+    "question": "What genre is Deivos?"
+  },
+  {
+    "_id": "popqa_799",
+    "answer": "Germany|FRG|BRD|Bundesrepublik Deutschland|Federal Republic of Germany|de|Deutschland|GER|BR Deutschland|DE",
+    "question": "In what country is Lambertz Open by STAWAG?"
+  },
+  {
+    "_id": "popqa_800",
+    "answer": "Molly Parkin",
+    "question": "Who is the author of Love All?"
+  },
+  {
+    "_id": "popqa_801",
+    "answer": "Damien Broderick|Damien Francis Broderick|D. Broderick|D Broderick|Roger Delaney|Edgar Grieve|Jack Harding|Alan Harlison|Philip Jenkins|Horace West|Iago Yarrick|O'Flaherty Gribbles|Rory Barnes",
+    "question": "Who is the author of Zones?"
+  },
+  {
+    "_id": "popqa_802",
+    "answer": "rock music|rock and roll|rock|Rock",
+    "question": "What genre is Shine?"
+  },
+  {
+    "_id": "popqa_803",
+    "answer": "Toronto|City of Toronto|The Six|T-O|The 416|Hogtown",
+    "question": "In what city was Anthony Gale born?"
+  },
+  {
+    "_id": "popqa_804",
+    "answer": "public art",
+    "question": "What genre is Compass?"
+  },
+  {
+    "_id": "popqa_805",
+    "answer": "Nantes",
+    "question": "In what city was Marie-H\u00e9l\u00e8ne Aubert born?"
+  },
+  {
+    "_id": "popqa_806",
+    "answer": "Brooklyn|Brooklyn, New York",
+    "question": "In what city was Rodger Stevens born?"
+  },
+  {
+    "_id": "popqa_807",
+    "answer": "Hans-Hermann Hoppe",
+    "question": "Who is the author of The Economics and Ethics of Private Property?"
+  },
+  {
+    "_id": "popqa_808",
+    "answer": "journalist|journo|journalists",
+    "question": "What is Boutheina Jabnoun's occupation?"
+  },
+  {
+    "_id": "popqa_809",
+    "answer": "Madagascar|mg|\ud83c\uddf2\ud83c\uddec|Republic of Madagascar|MAD",
+    "question": "In what country is Mahaboboka?"
+  },
+  {
+    "_id": "popqa_810",
+    "answer": "Theresa|Theresa, New York",
+    "question": "In what city was Doc Parker born?"
+  },
+  {
+    "_id": "popqa_811",
+    "answer": "farmer|agriculturist|grower|raiser|cultivator|agriculturer|farmer (occupation)|politician|political leader|political figure|polit.|pol",
+    "question": "What is William Australia Graham's occupation?"
+  },
+  {
+    "_id": "popqa_812",
+    "answer": "Stephen Marlowe",
+    "question": "Who is the author of Looking Forward?"
+  },
+  {
+    "_id": "popqa_813",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Vladislav Matviyenko play?"
+  },
+  {
+    "_id": "popqa_814",
+    "answer": "ice hockey",
+    "question": "What sport does Alexei Ugarov play?"
+  },
+  {
+    "_id": "popqa_815",
+    "answer": "Turkey|Republic of Turkey|\ud83c\uddf9\ud83c\uddf7|TUR|TR",
+    "question": "In what country is Gaffarl\u0131?"
+  },
+  {
+    "_id": "popqa_816",
+    "answer": "Columbia|Columbia, Missouri",
+    "question": "In what city was William Franklin Switzler born?"
+  },
+  {
+    "_id": "popqa_817",
+    "answer": "Alan Rodgers",
+    "question": "Who is the author of Fire?"
+  },
+  {
+    "_id": "popqa_818",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Cora?"
+  },
+  {
+    "_id": "popqa_819",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Rahzan?"
+  },
+  {
+    "_id": "popqa_820",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Russell Stokes's occupation?"
+  },
+  {
+    "_id": "popqa_821",
+    "answer": "Frederick Lonsdale",
+    "question": "Who was the screenwriter for The Fake?"
+  },
+  {
+    "_id": "popqa_822",
+    "answer": "interactive fiction|text adventure|interactive book video game|Interactive eBooks|Interactive fiction",
+    "question": "What genre is Operation Sabotage?"
+  },
+  {
+    "_id": "popqa_823",
+    "answer": "Marousi",
+    "question": "In what city was Christos Mitsis born?"
+  },
+  {
+    "_id": "popqa_824",
+    "answer": "Cecil Hepworth|Cecil M. Hepworth|Cecil Milton Hepworth",
+    "question": "Who was the producer of The Baby on the Barge?"
+  },
+  {
+    "_id": "popqa_825",
+    "answer": "association football|football|soccer",
+    "question": "What sport does list of Azerbaijan football transfers winter 2012 play?"
+  },
+  {
+    "_id": "popqa_826",
+    "answer": "Dean Wesley Smith|Kristine Kathryn Rusch",
+    "question": "Who is the author of Shadow?"
+  },
+  {
+    "_id": "popqa_827",
+    "answer": "Turkey|Republic of Turkey|\ud83c\uddf9\ud83c\uddf7|TUR|TR",
+    "question": "In what country is Karahasanl\u0131?"
+  },
+  {
+    "_id": "popqa_828",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Adams?"
+  },
+  {
+    "_id": "popqa_829",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Elias MacDonald play?"
+  },
+  {
+    "_id": "popqa_830",
+    "answer": "Saint-Doulchard|Unit\u00e9-sur-Y\u00e8vre",
+    "question": "What is the capital of canton of Saint-Doulchard?"
+  },
+  {
+    "_id": "popqa_831",
+    "answer": "science fiction|SF|scifi|sci Fi|sci-Fi|science-fiction|sci fi|sciencefiction|short story|tale|pripovijetka",
+    "question": "What genre is In Deep?"
+  },
+  {
+    "_id": "popqa_832",
+    "answer": "Yves Ciampi",
+    "question": "Who was the director of Le Gu\u00e9risseur?"
+  },
+  {
+    "_id": "popqa_833",
+    "answer": "Yalutorovsk",
+    "question": "What is the capital of Yalutorovsky District?"
+  },
+  {
+    "_id": "popqa_834",
+    "answer": "Sidney Olcott",
+    "question": "Who was the director of The Only Woman?"
+  },
+  {
+    "_id": "popqa_835",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Arnaldo Ribeiro?"
+  },
+  {
+    "_id": "popqa_836",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Dubicze Osoczne?"
+  },
+  {
+    "_id": "popqa_837",
+    "answer": "Paris|City of Light|Paris, France",
+    "question": "In what city was Louis Joseph Troost born?"
+  },
+  {
+    "_id": "popqa_838",
+    "answer": "Binka Zhelyazkova",
+    "question": "Who was the director of The Last Word?"
+  },
+  {
+    "_id": "popqa_839",
+    "answer": "John Updike|John Hoyer Updike",
+    "question": "Who is the author of Trust Me?"
+  },
+  {
+    "_id": "popqa_840",
+    "answer": "Michael Daugherty|Michael Kevin Daugherty",
+    "question": "Who was the composer of Time Machine?"
+  },
+  {
+    "_id": "popqa_841",
+    "answer": "Norway|Kingdom of Norway|Norge|Norv\u00e8ge\u200f|NO|NOR|no|Noreg|Norwegen\u200f|\ud83c\uddf3\ud83c\uddf4",
+    "question": "In what country is Storsteinnes Chapel?"
+  },
+  {
+    "_id": "popqa_842",
+    "answer": "Anglicanism|Anglicanism, Anglican Church",
+    "question": "What is the religion of James Uno?"
+  },
+  {
+    "_id": "popqa_843",
+    "answer": "rugby union|rugby",
+    "question": "What sport does 1949 France rugby union tour of Argentina play?"
+  },
+  {
+    "_id": "popqa_844",
+    "answer": "Philadelphia|Philly|City of Brotherly Love|Cradle of Liberty|Philadelphia, Pennsylvania|City of Philadelphia|Philadelphia, PA",
+    "question": "In what city was Charles Hammock born?"
+  },
+  {
+    "_id": "popqa_845",
+    "answer": "Bharati Mukherjee",
+    "question": "Who is the author of Darkness?"
+  },
+  {
+    "_id": "popqa_846",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Kwak Hee-ju play?"
+  },
+  {
+    "_id": "popqa_847",
+    "answer": "Hossein Shahabi",
+    "question": "Who was the composer of Ghost?"
+  },
+  {
+    "_id": "popqa_848",
+    "answer": "Cleethorpes",
+    "question": "In what city was H. Hugh Bancroft born?"
+  },
+  {
+    "_id": "popqa_849",
+    "answer": "James Cruze",
+    "question": "Who was the producer of The Garden of Weeds?"
+  },
+  {
+    "_id": "popqa_850",
+    "answer": "Lisa Unger|Lisa Miscione",
+    "question": "Who is the author of Smoke?"
+  },
+  {
+    "_id": "popqa_851",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Karimu?"
+  },
+  {
+    "_id": "popqa_852",
+    "answer": "Notodden",
+    "question": "In what city was Stig Kleven born?"
+  },
+  {
+    "_id": "popqa_853",
+    "answer": "Castellane|Castelana",
+    "question": "What is the capital of arrondissement of Castellane?"
+  },
+  {
+    "_id": "popqa_854",
+    "answer": "Russell Kirk|Russell Amos Kirk",
+    "question": "Who is the author of Watchers at the Strait Gate?"
+  },
+  {
+    "_id": "popqa_855",
+    "answer": "Kareli\u010dy",
+    "question": "What is the capital of Kareli\u010dy District?"
+  },
+  {
+    "_id": "popqa_856",
+    "answer": "Ristiina|Kristina|Kristina kommun",
+    "question": "In what city was Joachim Zachris Duncker born?"
+  },
+  {
+    "_id": "popqa_857",
+    "answer": "Cantopop|Cantonese popular music|HK-pop|Hong Kong pop music",
+    "question": "What genre is Serving You?"
+  },
+  {
+    "_id": "popqa_858",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Andrei Bogomolov play?"
+  },
+  {
+    "_id": "popqa_859",
+    "answer": "industrial rock",
+    "question": "What genre is Drill?"
+  },
+  {
+    "_id": "popqa_860",
+    "answer": "H. Rider Haggard|Henry Rider Haggard|Sir Henry Rider Haggard|H. R. Haggard|H Rider Haggard",
+    "question": "Who is the author of Regeneration?"
+  },
+  {
+    "_id": "popqa_861",
+    "answer": "Spain|Espa\u00f1a|Kingdom of Spain|ES|ESP",
+    "question": "In what country is Pira?"
+  },
+  {
+    "_id": "popqa_862",
+    "answer": "Kharkiv|Kharkov|Ch\u00e1rkiv|Harkov|Khar'kov|Kharkoff",
+    "question": "In what city was Vitaliy Sobko born?"
+  },
+  {
+    "_id": "popqa_863",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Frederick Dundas's occupation?"
+  },
+  {
+    "_id": "popqa_864",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Edward Gunasekara's occupation?"
+  },
+  {
+    "_id": "popqa_865",
+    "answer": "landscape art|landscape painting|landscape",
+    "question": "What genre is Elias Childe?"
+  },
+  {
+    "_id": "popqa_866",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Bia\u0142y Ko\u015bci\u00f3\u0142, Lower Silesian Voivodeship?"
+  },
+  {
+    "_id": "popqa_867",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Stare Brz\u00f3ski?"
+  },
+  {
+    "_id": "popqa_868",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Sebaki Devi Das Tatma's occupation?"
+  },
+  {
+    "_id": "popqa_869",
+    "answer": "Tao Lin",
+    "question": "Who is the author of Bed?"
+  },
+  {
+    "_id": "popqa_870",
+    "answer": "Vienna|Wien|Vienna, Austria|W",
+    "question": "In what city was Florian Reichst\u00e4dter born?"
+  },
+  {
+    "_id": "popqa_871",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is West Wyomissing?"
+  },
+  {
+    "_id": "popqa_872",
+    "answer": "Peter Pohl",
+    "question": "Who is the author of Johnny, My Friend?"
+  },
+  {
+    "_id": "popqa_873",
+    "answer": "Gene Kemp",
+    "question": "Who is the author of Gowie Corby Plays Chicken?"
+  },
+  {
+    "_id": "popqa_874",
+    "answer": "Anglicanism|Anglicanism, Anglican Church",
+    "question": "What is the religion of Kenneth Kennedy?"
+  },
+  {
+    "_id": "popqa_875",
+    "answer": "Berthierville",
+    "question": "In what city was Louis-Ars\u00e8ne Lavall\u00e9e born?"
+  },
+  {
+    "_id": "popqa_876",
+    "answer": "philosopher",
+    "question": "What is Ernst Theodor Echtermeyer's occupation?"
+  },
+  {
+    "_id": "popqa_877",
+    "answer": "Dmitriyevsky District",
+    "question": "What is Dmitriyev the capital of?"
+  },
+  {
+    "_id": "popqa_878",
+    "answer": "Australia|Commonwealth of Australia|AU|AUS|au|British Colony of Australia|\ud83c\udde6\ud83c\uddfa|Straya|Aussieland",
+    "question": "In what country is Denmark Hill Insect Bed?"
+  },
+  {
+    "_id": "popqa_879",
+    "answer": "ice hockey",
+    "question": "What sport does Jeannot Gilbert play?"
+  },
+  {
+    "_id": "popqa_880",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Bridie O'Flaherty's occupation?"
+  },
+  {
+    "_id": "popqa_881",
+    "answer": "Robert I of Capua|Robert Ier d'Aversa",
+    "question": "Who is the father of Richard III of Capua?"
+  },
+  {
+    "_id": "popqa_882",
+    "answer": "Nepal|NPL|Federal Democratic Republic of Nepal|NEP|NP|\ud83c\uddf3\ud83c\uddf5",
+    "question": "In what country is Madan Kundari?"
+  },
+  {
+    "_id": "popqa_883",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Robert Lewis's occupation?"
+  },
+  {
+    "_id": "popqa_884",
+    "answer": "Harnes",
+    "question": "What is the capital of canton of Harnes?"
+  },
+  {
+    "_id": "popqa_885",
+    "answer": "Ilkeston",
+    "question": "In what city was Jim Baker born?"
+  },
+  {
+    "_id": "popqa_886",
+    "answer": "Ypres|leper",
+    "question": "In what city was Alo\u00efs Boudry born?"
+  },
+  {
+    "_id": "popqa_887",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Oleg Imrekov play?"
+  },
+  {
+    "_id": "popqa_888",
+    "answer": "Fletcher Pratt|Irvin Lester|George U. Fletcher|Murray Fletcher Pratt",
+    "question": "Who is the author of World of Wonder?"
+  },
+  {
+    "_id": "popqa_889",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is WZRU?"
+  },
+  {
+    "_id": "popqa_890",
+    "answer": "rugby union|rugby",
+    "question": "What sport does James MacKenzie play?"
+  },
+  {
+    "_id": "popqa_891",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Alexander Gadolin's occupation?"
+  },
+  {
+    "_id": "popqa_892",
+    "answer": "Joseph Kaufman",
+    "question": "Who was the director of Broadway Jones?"
+  },
+  {
+    "_id": "popqa_893",
+    "answer": "association football|football|soccer",
+    "question": "What sport does G\u00fcnter Kutowski play?"
+  },
+  {
+    "_id": "popqa_894",
+    "answer": "Oulu|Ule\u00e5borg|Uleaborg",
+    "question": "In what city was Aarno Maliniemi born?"
+  },
+  {
+    "_id": "popqa_895",
+    "answer": "indie rock|Independent rock|Indie Rock",
+    "question": "What genre is Settle?"
+  },
+  {
+    "_id": "popqa_896",
+    "answer": "Tony Gayton",
+    "question": "Who was the producer of Revelations?"
+  },
+  {
+    "_id": "popqa_897",
+    "answer": "science fiction|SF|scifi|sci Fi|sci-Fi|science-fiction|sci fi|sciencefiction",
+    "question": "What genre is The Blue Aura?"
+  },
+  {
+    "_id": "popqa_898",
+    "answer": "association football|football|soccer",
+    "question": "What sport does 2002 Euro Beach Soccer Cup play?"
+  },
+  {
+    "_id": "popqa_899",
+    "answer": "photographer|photog|photographers",
+    "question": "What is Paolo Pellizzari's occupation?"
+  },
+  {
+    "_id": "popqa_900",
+    "answer": "rock music|rock and roll|rock|Rock",
+    "question": "What genre is West?"
+  },
+  {
+    "_id": "popqa_901",
+    "answer": "Anglicanism|Anglicanism, Anglican Church",
+    "question": "What is the religion of John Richardson?"
+  },
+  {
+    "_id": "popqa_902",
+    "answer": "Adrian Belew|Robert Steven Belew",
+    "question": "Who was the composer of Discipline?"
+  },
+  {
+    "_id": "popqa_903",
+    "answer": "Paul Cornell|Paul Douglas Cornell",
+    "question": "Who is the author of Something More?"
+  },
+  {
+    "_id": "popqa_904",
+    "answer": "association football|football|soccer",
+    "question": "What sport does 2011 Chatham Cup play?"
+  },
+  {
+    "_id": "popqa_905",
+    "answer": "Ivory Coast|Republic of C\u00f4te d'Ivoire|ci|Cote d'Ivoire|\ud83c\udde8\ud83c\uddee|C\u00f4te d'Ivoire|Republic of Cote d'Ivoire|C\u00f4te-d'Ivoire|C\u00f4te D'Ivoire|Cote D'Ivoire|Cote d'lvoire|Ivory coast|Cote D' Ivoire|Cote d' Ivoire|C\u00f4te d\u2019Ivoire|C\u00f4te d'Ivorie|C\u00f4te d'ivoire|Cote d'ivoire|Cote d\u00b4Ivoire|Cote d ivoire|Cote divoire|Cote Ivoire|Cote d\u2019Ivoire|R\u00e9publique de C\u00f4te d'Ivoire|Republic of Ivory Coast|Cote Divoire|Cote-d'Ivoire|Cote d'ivore|Cote dIvoire|C\u00f4te d\u00b4Ivoire|C\u00f4te Divoire|C\u00f4te D'ivoire|Republic of the Ivory Coast|The Ivory Coast|CIV",
+    "question": "In what country is Abra, Ivory Coast?"
+  },
+  {
+    "_id": "popqa_906",
+    "answer": "Spain|Espa\u00f1a|Kingdom of Spain|ES|ESP",
+    "question": "In what country is Sabiote?"
+  },
+  {
+    "_id": "popqa_907",
+    "answer": "Jean-Jacques Andrien",
+    "question": "Who was the screenwriter for Le Fils d'Amr est mort?"
+  },
+  {
+    "_id": "popqa_908",
+    "answer": "Japan|State of Japan|Land of the Rising Sun|Nihon|Nippon|JP|Nippon-koku|Nihon-koku|JA|JPN|jp|JAP|Ja|Jap",
+    "question": "In what country is Okunakayama-K\u014dgen Station?"
+  },
+  {
+    "_id": "popqa_909",
+    "answer": "Frederik Magle|Frederik Reesen Magle|Magle|Frederick Magle",
+    "question": "Who was the composer of The Hope?"
+  },
+  {
+    "_id": "popqa_910",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Genoa?"
+  },
+  {
+    "_id": "popqa_911",
+    "answer": "Vietnam|Socialist Republic of Vietnam|VN|VIE|\ud83c\uddfb\ud83c\uddf3|Vi\u1ec7t Nam|Viet Nam|SRV|VNM",
+    "question": "In what country is C\u1ed5 Linh?"
+  },
+  {
+    "_id": "popqa_912",
+    "answer": "Mechetlinsky District",
+    "question": "What is Bolsheustyikinskoye the capital of?"
+  },
+  {
+    "_id": "popqa_913",
+    "answer": "cycle sport|bicycle sport|bike sport|cycling sport|sport cycling|sports cycling|cycling sports",
+    "question": "What sport does Colombian Cycling Federation play?"
+  },
+  {
+    "_id": "popqa_914",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Ignacy Tokarczuk?"
+  },
+  {
+    "_id": "popqa_915",
+    "answer": "docudrama|documentary drama|Docudrama|Drama-documentary",
+    "question": "What genre is The Mark Waters Story?"
+  },
+  {
+    "_id": "popqa_916",
+    "answer": "journalist|journo|journalists",
+    "question": "What is John D. Maurice's occupation?"
+  },
+  {
+    "_id": "popqa_917",
+    "answer": "documentary film|documentary movie|doc|film documentary|motion picture documentary|documentary|factual film",
+    "question": "What genre is Background?"
+  },
+  {
+    "_id": "popqa_918",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Howard Fowles's occupation?"
+  },
+  {
+    "_id": "popqa_919",
+    "answer": "novella",
+    "question": "What genre is Nightdreamers?"
+  },
+  {
+    "_id": "popqa_920",
+    "answer": "Damien Broderick|Damien Francis Broderick|D. Broderick|D Broderick|Roger Delaney|Edgar Grieve|Jack Harding|Alan Harlison|Philip Jenkins|Horace West|Iago Yarrick|O'Flaherty Gribbles",
+    "question": "Who is the author of Transcension?"
+  },
+  {
+    "_id": "popqa_921",
+    "answer": "Mary Tappan Wright",
+    "question": "Who is the author of The Test?"
+  },
+  {
+    "_id": "popqa_922",
+    "answer": "Thailand|Kingdom of Thailand|th|Siam|\ud83c\uddf9\ud83c\udded|Land of Smiles|THA",
+    "question": "In what country is Wiang Kao?"
+  },
+  {
+    "_id": "popqa_923",
+    "answer": "Japan|State of Japan|Land of the Rising Sun|Nihon|Nippon|JP|Nippon-koku|Nihon-koku|JA|JPN|jp|JAP|Ja|Jap",
+    "question": "In what country is Mount Shinten?"
+  },
+  {
+    "_id": "popqa_924",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Petru Vlah's occupation?"
+  },
+  {
+    "_id": "popqa_925",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is C\u0103lmu\u0219 River?"
+  },
+  {
+    "_id": "popqa_926",
+    "answer": "Ralph Fletcher",
+    "question": "Who is the author of Moving Day?"
+  },
+  {
+    "_id": "popqa_927",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Puzdrowizna?"
+  },
+  {
+    "_id": "popqa_928",
+    "answer": "biochemist|biological chemist",
+    "question": "What is Adil Shamoo's occupation?"
+  },
+  {
+    "_id": "popqa_929",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Fontenay?"
+  },
+  {
+    "_id": "popqa_930",
+    "answer": "Huamachuco",
+    "question": "What is the capital of S\u00e1nchez Carri\u00f3n Province?"
+  },
+  {
+    "_id": "popqa_931",
+    "answer": "Nozomi Sasaki",
+    "question": "Who is the author of Non?"
+  },
+  {
+    "_id": "popqa_932",
+    "answer": "Catholic Church|Roman Catholic Church|Church|Roman Apostolic Catholic Church",
+    "question": "What is the religion of Bellino Giusto Ghirard?"
+  },
+  {
+    "_id": "popqa_933",
+    "answer": "Tito Schipa|Raffaele Attilio Amedeo Schipa|Tito Skipa|Tito Shipa|Tito Skipu|Titus Schipa|Titto Shippa|Titto Skipa|Raffaele Schipa",
+    "question": "Who was the composer of To Live?"
+  },
+  {
+    "_id": "popqa_934",
+    "answer": "novella",
+    "question": "What genre is Chaotic?"
+  },
+  {
+    "_id": "popqa_935",
+    "answer": "association football|football|soccer",
+    "question": "What sport does 2013 Torneo di Viareggio play?"
+  },
+  {
+    "_id": "popqa_936",
+    "answer": "Ipatovo",
+    "question": "In what city was Ivan Khomukha born?"
+  },
+  {
+    "_id": "popqa_937",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Andrei Vi\u021belaru play?"
+  },
+  {
+    "_id": "popqa_938",
+    "answer": "Rudolf Friml|Charles Rudolf Friml",
+    "question": "Who was the composer of Sometime?"
+  },
+  {
+    "_id": "popqa_939",
+    "answer": "Newcastle upon Tyne|Newcastle|Newcastle-on-Tyne|Newcastle upon Tyne (parish)|Newcastle-upon-Tyne",
+    "question": "In what city was Matt Moralee born?"
+  },
+  {
+    "_id": "popqa_940",
+    "answer": "documentary film|documentary movie|doc|film documentary|motion picture documentary|documentary|factual film",
+    "question": "What genre is Thin Ice?"
+  },
+  {
+    "_id": "popqa_941",
+    "answer": "Canoas",
+    "question": "In what city was Reinaldo Dalcin born?"
+  },
+  {
+    "_id": "popqa_942",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Marc Herold Gracien play?"
+  },
+  {
+    "_id": "popqa_943",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Arthur?"
+  },
+  {
+    "_id": "popqa_944",
+    "answer": "Alice Hegan Rice|Alice Caldwell Hegan",
+    "question": "Who is the author of Sandy?"
+  },
+  {
+    "_id": "popqa_945",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Walter K\u00f6bel's occupation?"
+  },
+  {
+    "_id": "popqa_946",
+    "answer": "experimental music|Experimental",
+    "question": "What genre is The Box?"
+  },
+  {
+    "_id": "popqa_947",
+    "answer": "basketball|hoops|b-ball|basket ball|BB|Basketball",
+    "question": "What sport does 1998\u201399 Slovenian Basketball League play?"
+  },
+  {
+    "_id": "popqa_948",
+    "answer": "Anne Wheeler",
+    "question": "Who was the director of Chi?"
+  },
+  {
+    "_id": "popqa_949",
+    "answer": "William Klein",
+    "question": "Who was the director of Messiah?"
+  },
+  {
+    "_id": "popqa_950",
+    "answer": "trance|trance music|Trance|techno|techno music",
+    "question": "What genre is Heaven?"
+  },
+  {
+    "_id": "popqa_951",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Kuczynka?"
+  },
+  {
+    "_id": "popqa_952",
+    "answer": "Canada|Dominion of Canada|British North America|CAN|CA|ca|can|Can.",
+    "question": "In what country is Zec Petawaga?"
+  },
+  {
+    "_id": "popqa_953",
+    "answer": "Vietnam|Socialist Republic of Vietnam|VN|VIE|\ud83c\uddfb\ud83c\uddf3|Vi\u1ec7t Nam|Viet Nam|SRV|VNM",
+    "question": "In what country is Ba Th\u00edn River?"
+  },
+  {
+    "_id": "popqa_954",
+    "answer": "Nikolai Leskov|M. Stebnitsky|Nikolai Semyonovich Leskov",
+    "question": "Who is the author of The Amazon?"
+  },
+  {
+    "_id": "popqa_955",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Arafan Camara's occupation?"
+  },
+  {
+    "_id": "popqa_956",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Mi\u0119tkie-Kolonia?"
+  },
+  {
+    "_id": "popqa_957",
+    "answer": "composer|pianist",
+    "question": "What is Carsten Carlsen's occupation?"
+  },
+  {
+    "_id": "popqa_958",
+    "answer": "ice hockey",
+    "question": "What sport does 1989\u201390 1. Slovensk\u00e1 n\u00e1rodn\u00e1 hokejov\u00e1 liga season play?"
+  },
+  {
+    "_id": "popqa_959",
+    "answer": "Jam Handy|Henry Jamison Handy|Jamison Handy",
+    "question": "Who was the producer of Hired!?"
+  },
+  {
+    "_id": "popqa_960",
+    "answer": "J-pop|Japanese pop|jpop",
+    "question": "What genre is Bridge?"
+  },
+  {
+    "_id": "popqa_961",
+    "answer": "troubadour",
+    "question": "What is Guillem Ramon de Gironella's occupation?"
+  },
+  {
+    "_id": "popqa_962",
+    "answer": "Peter Horton",
+    "question": "Who was the director of Pilot?"
+  },
+  {
+    "_id": "popqa_963",
+    "answer": "Matthew Richey",
+    "question": "Who is the father of Matthew Henry Richey?"
+  },
+  {
+    "_id": "popqa_964",
+    "answer": "seiy\u016b|Japanese voice actress|seiyuu|seiyu|Japanese voice actor",
+    "question": "What is Mami Matsui's occupation?"
+  },
+  {
+    "_id": "popqa_965",
+    "answer": "Hugh Ford",
+    "question": "Who was the director of Sold?"
+  },
+  {
+    "_id": "popqa_966",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Aminabad?"
+  },
+  {
+    "_id": "popqa_967",
+    "answer": "politician|political leader|political figure|polit.|pol",
+    "question": "What is Fidel Antu\u00f1a Batista's occupation?"
+  },
+  {
+    "_id": "popqa_968",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Tartaczek?"
+  },
+  {
+    "_id": "popqa_969",
+    "answer": "Warsaw|Warszawa|Varshe|Warschau|Varshava|Var\u0161ava|Vars\u00f3|Varsavia|Varsovie|Varsovia|Var\u0161uva",
+    "question": "In what city was Piotr Balcerzak born?"
+  },
+  {
+    "_id": "popqa_970",
+    "answer": "Romania|Roumania|Rumania|Rom\u00e2nia|ro|\ud83c\uddf7\ud83c\uddf4",
+    "question": "In what country is D\u00e2rmocsa River?"
+  },
+  {
+    "_id": "popqa_971",
+    "answer": "romantic comedy|romedy|romcom",
+    "question": "What genre is Right There?"
+  },
+  {
+    "_id": "popqa_972",
+    "answer": "bobsleigh|bobsledding|bobsled|bobsleighing|Bobsled",
+    "question": "What sport does Dumitru Hubert play?"
+  },
+  {
+    "_id": "popqa_973",
+    "answer": "United States of America|the United States of America|America|U.S.A.|USA|U.S.|US|the US|the USA|US of A|the United States|U. S. A.|U. S.|the States|the U.S.|'Merica|U.S|United States|'Murica",
+    "question": "In what country is Bud?"
+  },
+  {
+    "_id": "popqa_974",
+    "answer": "Bosnia and Herzegovina|Bosnia-Herzegovina|Bosnia|BiH|Bosnia & Herzegovina|B&H|\ud83c\udde7\ud83c\udde6|ba|BIH",
+    "question": "In what country is Kozi\u0107i?"
+  },
+  {
+    "_id": "popqa_975",
+    "answer": "Aldo Fabrizi|Aldo Fabbrizi",
+    "question": "Who was the producer of One of Those?"
+  },
+  {
+    "_id": "popqa_976",
+    "answer": "American football|gridiron football|\ud83c\udfc8|football|American rules football",
+    "question": "What sport does Granada Lions play?"
+  },
+  {
+    "_id": "popqa_977",
+    "answer": "Wilkinsburg",
+    "question": "In what city was Richard S. Bull born?"
+  },
+  {
+    "_id": "popqa_978",
+    "answer": "Afghanistan|af|\ud83c\udde6\ud83c\uddeb|AFG",
+    "question": "In what country is Sholoktu?"
+  },
+  {
+    "_id": "popqa_979",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Kalateh-ye Safdarabad?"
+  },
+  {
+    "_id": "popqa_980",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Shahrul Azhar Ture play?"
+  },
+  {
+    "_id": "popqa_981",
+    "answer": "Henry James|Henricus James",
+    "question": "Who is the author of The Middle Years?"
+  },
+  {
+    "_id": "popqa_982",
+    "answer": "ice hockey",
+    "question": "What sport does Njurunda SK play?"
+  },
+  {
+    "_id": "popqa_983",
+    "answer": "Prague|Praha|Hlavn\u00ed m\u011bsto Praha|City of Prague",
+    "question": "In what city was Ji\u0159\u00ed Vy\u010dichlo born?"
+  },
+  {
+    "_id": "popqa_984",
+    "answer": "association football|football|soccer",
+    "question": "What sport does Christos Koutsospyros play?"
+  },
+  {
+    "_id": "popqa_985",
+    "answer": "Kano",
+    "question": "In what city was Shagari Mohammed born?"
+  },
+  {
+    "_id": "popqa_986",
+    "answer": "Poland|POL|Republic of Poland|PL|Polska",
+    "question": "In what country is Jod\u0142\u00f3wka gas field?"
+  },
+  {
+    "_id": "popqa_987",
+    "answer": "Wolfgang Liebeneiner",
+    "question": "Who was the director of You and I?"
+  },
+  {
+    "_id": "popqa_988",
+    "answer": "neo-psychedelia",
+    "question": "What genre is Brain Slaves?"
+  },
+  {
+    "_id": "popqa_989",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Francheville Aerodrome?"
+  },
+  {
+    "_id": "popqa_990",
+    "answer": "France|fr|FR|R\u00e9publique fran\u00e7aise|La France|Republic of France|French Republic|FRA|the Hexagon",
+    "question": "In what country is Saint-Vincent-de-Salers?"
+  },
+  {
+    "_id": "popqa_991",
+    "answer": "indie pop|indie pop music|indie-pop|indiepop",
+    "question": "What genre is Let It Go?"
+  },
+  {
+    "_id": "popqa_992",
+    "answer": "Edinburgh|Edinburg|Edinburgh, Scotland|City of Edinburgh|Edina|Modern Athens",
+    "question": "In what city was Arthur Thomson born?"
+  },
+  {
+    "_id": "popqa_993",
+    "answer": "Kaaron Warren",
+    "question": "Who is the author of A Positive?"
+  },
+  {
+    "_id": "popqa_994",
+    "answer": "Budapest|Buda Pest|Buda-Pest|Budape\u0161\u0165|Budapesta|Budapeszt|Buda|Ofen|Bud\u00edn|Budim|Budon|Pest|Pe\u0161\u0165|Pe\u0161ta|\u00d3buda|Alt-Ofen|K\u0151b\u00e1nya",
+    "question": "In what city was Endre B\u00e1lint born?"
+  },
+  {
+    "_id": "popqa_995",
+    "answer": "James Baldwin|James Arthur Baldwin",
+    "question": "Who is the author of The Outing?"
+  },
+  {
+    "_id": "popqa_996",
+    "answer": "Iran|Islamic Republic of Iran|Persia|ir|Islamic Rep. Iran|\ud83c\uddee\ud83c\uddf7",
+    "question": "In what country is Khafr County?"
+  },
+  {
+    "_id": "popqa_997",
+    "answer": "W. Michael Gear",
+    "question": "Who is the author of The Warriors of Spider?"
+  },
+  {
+    "_id": "popqa_998",
+    "answer": "Glenda Adams|Glenda Emilie Adams",
+    "question": "Who is the author of Dancing on Coral?"
+  },
+  {
+    "_id": "popqa_999",
+    "answer": "pop music|pop|Pop",
+    "question": "What genre is Drive On?"
+  }
+]
