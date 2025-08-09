@@ -13,8 +13,6 @@ __pycache__/
 *.pyd
 # Ignore nohup_out directory
 nohup_out/
-# Ignore outputs directory
-outputs/
 # Ignore data directory
 data/
 # Ignore the bash script to clear files under outputs and logs directories
@@ -25,5 +23,19 @@ clear_outputs_and_logs.sh
 *.sqlite.lock
 analyse/
 images/
-outputs/
+# 1. Ignore all content inside the 'outputs' directory by default
+outputs/*
+
+# 2. BUT, make an exception for the parent directories you need to look inside.
+# The trailing slash is important to mark it as a directory.
+!outputs/*_univ/
+
+# 3. NOW, ignore all content inside those parent directories...
+outputs/*_univ/*
+
+# 4. ...EXCEPT for files starting with 'openie_results'.
+# The wildcard (*) makes it work for any file like openie_results_ner.json, etc.
+!outputs/*_univ/openie_results*.json
+passage_retrieval_cache/
+intermediate_results/
 logs/

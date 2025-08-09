@@ -343,7 +343,36 @@ To answer the question, I need to know [list propositions like "A is directed by
                 elif current_section == 'propositions' and line:
                     propositions += " " + line
 
-            # If no triples extracted, retry with simpler format
+            # If no triples extracted, try a secondary parse to catch unlabeled triple lines
+            if not triples:
+                secondary_triples = []
+                for raw_line in lines:
+                    line = raw_line.strip()
+                    # Skip section headers
+                    if not line or line.lower().startswith(('reasoning:', 'triples:', 'propositions:')):
+                        continue
+                    if '|' in line:
+                        # Remove numbering/bullets and extract parts
+                        if '. ' in line:
+                            line = line.split('. ', 1)[-1]
+                        if '- ' in line:
+                            line = line.replace('- ', '')
+                        parts = [part.strip().strip('"').strip("'") for part in line.split('|')]
+                        if len(parts) >= 3:
+                            triple = {
+                                'subject': parts[0],
+                                'predicate': parts[1],
+                                'object': parts[2]
+                            }
+                            secondary_triples.append(triple)
+
+                if secondary_triples:
+                    triples = secondary_triples
+                    if not reasoning:
+                        reasoning = "Parsed triples from unlabeled lines."
+                    propositions = self._triples_to_propositions(triples)
+
+            # If still no triples, retry with simpler format (additional LLM call)
             if not triples:
                 logger.warning("No triples extracted from LLM response, retrying with simpler prompt")
                 triples = self._retry_triple_extraction_simple(query)

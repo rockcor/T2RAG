@@ -31,3 +31,6 @@ python main.py --dataset 2wikimultihopqa --method trag
 ```
 ## Results
 Final and intermediate results are saved in `outputs/<dataset>_<method>`.
+
+## Updates
+[2025.08] Support GPT-OSS
